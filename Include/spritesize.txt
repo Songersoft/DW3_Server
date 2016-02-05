@@ -1,0 +1,689 @@
+0
+control 0
+1
+10
+Scan Sprites
+250
+320
+90
+20
+
+400
+
+Scan the bmp map and show tiles.
+
+1
+
+
+control 1
+2
+10
+
+55
+120
+40
+20
+1
+
+400
+Position to start scanning inside the source image
+
+
+
+
+control 2
+2
+10
+
+125
+120
+40
+20
+1
+
+400
+Position to start scanning inside the source image
+
+
+
+
+control 3
+2
+10
+
+55
+145
+40
+20
+1
+
+400
+Position to stop scanning source image
+
+
+
+
+control 4
+2
+10
+
+125
+145
+40
+20
+1
+
+400
+Position to stop scanning source image
+
+
+
+
+control 5
+2
+10
+
+230
+145
+40
+20
+
+
+400
+Width of Source Image
+1
+
+
+
+control 6
+2
+10
+
+300
+145
+40
+20
+
+
+400
+Height of Source Image
+1
+
+
+
+control 7
+3
+115
+255
+20
+15
+0xE80300
+0
+
+
+
+
+
+
+
+
+control 8
+2
+10
+
+160
+250
+35
+20
+1
+
+400
+
+
+
+
+
+control 9
+2
+10
+
+210
+250
+35
+20
+1
+
+400
+
+
+
+
+
+control 10
+2
+10
+
+260
+250
+35
+20
+1
+
+400
+
+
+
+
+
+control 11
+3
+70
+275
+20
+15
+0xE80300
+0
+
+
+
+
+
+
+
+
+control 12
+10
+145
+275
+100
+20
+0
+255
+
+Does nothing here, I might remove this.
+
+
+
+
+
+
+control 13
+0
+10
+Stop W
+5
+150
+45
+20
+
+
+400
+Position to stop scanning source image
+
+
+
+
+control 14
+0
+10
+Instructions:
+5
+0
+75
+20
+1
+
+400
+
+
+
+
+
+control 15
+0
+10
+H
+110
+150
+10
+20
+
+
+400
+
+
+
+
+
+control 16
+0
+10
+Start X
+5
+125
+40
+20
+
+
+400
+Position to start scanning inside the source image
+
+
+
+
+control 17
+5
+10
+
+5
+16
+300
+80
+
+400
+
+1
+
+1
+
+
+control 18
+0
+10
+H
+280
+150
+10
+20
+
+
+400
+Height of Source Image
+
+
+
+
+control 19
+0
+10
+,  Alpha
+93
+275
+60
+20
+
+
+400
+
+
+
+
+
+control 20
+0
+10
+Y
+110
+125
+10
+20
+
+
+400
+
+
+
+
+
+control 21
+0
+10
+Background Color
+5
+255
+130
+20
+1
+
+400
+Click to choose color from Image.  Pressing 'G' will also get color over Image.
+
+
+
+
+control 22
+0
+10
+Grid Color
+5
+275
+85
+20
+1
+
+400
+Click the color to change.
+
+
+
+
+control 23
+0
+10
+r
+150
+255
+10
+20
+
+
+400
+
+
+
+
+
+control 24
+0
+10
+g
+200
+255
+10
+20
+
+
+400
+
+
+
+
+
+control 25
+0
+10
+b
+250
+255
+10
+20
+
+
+400
+
+
+
+
+
+control 26
+6
+10
+W Background Color Break
+5
+175
+
+400
+
+175
+18
+
+
+
+
+
+control 27
+6
+10
+H Background Color Break
+5
+200
+130
+400
+
+175
+18
+
+
+
+
+
+control 28
+0
+10
+Source Width
+185
+130
+40
+40
+
+
+400
+Width of Source Image
+
+
+
+
+control 29
+0
+10
+Fixed Width
+200
+175
+70
+20
+
+
+400
+
+
+
+
+
+control 30
+0
+10
+Fixed Height
+200
+200
+75
+20
+
+
+400
+
+
+
+
+
+control 31
+2
+10
+
+280
+170
+40
+20
+1
+
+400
+Fixed Sprite Width
+
+
+
+
+control 32
+2
+10
+
+280
+195
+40
+20
+1
+
+400
+Fixed Sprite Height
+
+
+
+
+control 33
+0
+10
+Scan Step X
+5
+225
+75
+20
+
+
+400
+
+
+
+
+
+control 34
+2
+10
+
+85
+220
+40
+20
+1
+
+400
+Step between Sprites
+
+
+
+
+control 35
+2
+10
+
+220
+220
+40
+20
+1
+
+400
+Step between Sprites
+
+
+
+
+control 36
+0
+10
+Scan Step Y
+140
+225
+75
+20
+
+
+400
+
+
+
+
+
+control 37
+6
+10
+Trim Top
+5
+295
+
+400
+
+75
+
+
+
+
+
+
+control 38
+6
+10
+Trim Bottom
+5
+315
+
+400
+
+95
+
+
+
+
+
+
+control 39
+6
+10
+Trim Left
+5
+335
+
+400
+
+75
+
+
+
+
+
+
+control 40
+6
+10
+Trim Right
+5
+355
+
+400
+
+75
+
+
+
+
+
+
+control 41
+1
+10
+Confirm
+275
+355
+65
+20
+
+400
+
+Add the scanned sprite to sprite array
+
+
+
+
+control 42
+1
+10
+Cancel
+190
+355
+65
+20
+
+400
+
+no permanent changes
+
+
+
+

@@ -1,0 +1,14 @@
+Wisard Enterainment
+Wiablo gets the 'D'
+
+[Story]
+
+Who picked this music?
+
+Dude, whatever you do, don't break the 3rd wall!  (Have a 3rd wall and break it)
+
+[System]
+
+Player scores and items are uploaded to the server by client.  
+Set a timer for how long the other player can remove the new player.
+

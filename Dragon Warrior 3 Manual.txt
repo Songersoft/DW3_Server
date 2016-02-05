@@ -1,0 +1,2750 @@
+
+FREE @world-of-nintendo.com E-mail
+address!! Sign up here!!
+Username: 
+
+Password: 
+ Login
+Get a FREE iPad or MacBook Air!!!!!!!
+
+Dragon Warrior 3
+
+
+
+Typed out by Kevin Falkowski
+
+------------------------------------------------------------
+                            Page 1
+                      Explorer's Handbook
+
+CONTENTS
+Section I: Starting your quest...3
+Section II: A Guided Quest......21
+Geographical Features............2
+The Ultimate Hints..............78
+Index...........................80
+
+How to Enjoy Dragon Warrior III
+
+*Read Section I of this Explorer's Handbook, but DO NOT read Section II
+at first. You may want to refer to Section II for maps of caves,
+towers, and castles, but you won't enjoy the game as much if you depend
+too much on the information provided in Section II.
+
+*Section I explains the commands and the features of Dragon Warrior
+III. With the information about spells and items on the Dragon Warrior
+III Map Poster, you should be able to start your quest. By gathering
+information from people (or animals!) in the game, you should learn how
+to proceed.
+
+*If you get stuck and can't figure out what to do, try remembering what
+you have heard and seen. Chances are there was a clue which will put
+you back on track.
+
+*If you give up figuring outhow to proceed, refer to Section II for
+hints.
+
+*Use the clues in the Ultimate Hint section only as a last resort.
+
+*Save your game periodically, especially before venturing into new
+territories or attempting things you are unsure about.
+--------------------------------------------------------------
+                            Page 2
+                     GEOGRAPHICAL FEATURES
+
+LAND
+Bushes (passable)
+Mountains (passable)
+Ice (passable)
+Bridge (passable)
+Craggy Mountains (impassable)
+Poisonous Swamp (passable with damage)
+
+Barrier (passable with damage)
+Don't confuse Barriers in castles and dungeons with Ice fields. To
+avoid damage from Barriers, use the StepGuard spell.
+
+SEA
+Sea (passable)
+Shoals (impassable)
+
+CASTLE, TOWN, VILLAGE & SHRINE
+Castle and Castle Town
+Town
+Village
+Shrine
+
+DOORS
+Thief's Key Door
+Magic Key Door
+Final Key Door
+
+The Magic Key can open Thief's Key Door as well as Magic Key Doors;
+the Final Key can open all three types of doors.
+
+OTHER
+Travel Door
+
+DUNGEONS
+Cave
+Tower
+Pyramid
+
+The doors in dungeons are larger than the doors in towns and castles
+but can be opened by the same keys. The Final Key opens every door.
+
+DOORS
+Thief's Key Door
+Magic Key Door
+
+TRAPS
+Rotating Floor
+Pitfall
+-------------------------------------------------------------
+                             Page 3
+                           SECTION I
+
+                     STARTING YOUR QUEST
+                      Table of Contents
+
+CONTROLLER FUNCTIONS............................4
+STARTING THE GAME...............................4
+COMMANDS IN THE OPTION SCREEN...................4
+BEGINNING YOUR QUEST............................5
+CLASS DESCRIPTION...............................7
+STORES AND OTHER FACILITIES.....................8
+ENDING A SESSION PROPERLY.......................9
+THE TWO WINDOWS................................10
+COMMANDS IN THE WALKABOUT MODE.................11
+CHARACTER ATTRIBUTES (INFO)....................13
+EXAMPLE: TRANSFER AND EQUIP....................14
+COMMANDS IN THE FIGHTING MODE..................15
+DAY AND NIGHT..................................17
+MORE ABOUT FIGHTING............................18
+-------------------------------------------------------------
+                            Page 4
+                      CONTROLLER FUNCTIONS
+
+Control Pad
+	Moves your character (and your allies) on the screen and moves
+the cursor > in any of the windows.
+
+A Button
+	Brings up the Command Window on the screen if it is not visible
+already. Enters your selections when the Command Window and other
+windows are up on the screen. Also, when \/ is flashing in the Text
+Window, pressing the A Button displays an additional message.
+
+B Button
+	Cancels selections and/or lets you go back to previous
+window/screen.
+
+*START Button skips the Opening Scene.
+*SELECT Button is not used.
+
+                        STARTING THE GAME
+
+Insert your Dragon Warrior III Game Pak into your NE as described in
+your NES control deck manual. Turn the POWER on. After the company
+logo is displayed, the Title Screen (picture 1) will appear. It will
+change to the Opening Scene (picture 2) automatically. Press the START
+Button to bring up the Option Screen (picture 3). When you play the
+game for the first time, only the BEGIN A NEW QUEST command will
+appear.
+
+                   COMMANDS IN THE OPTION SCREEN
+
+CONTINUE A QUEST
+Lets you continue a saved quest on the Adventure Log.
+
+BEGIN A NEW QUEST
+Lets you start a new Adventure Log. Up to three Adventure Logs at a
+time may be stored in the Game Pak. (This command appears only when at
+least one blank Adventure Log exists.)
+--------------------------------------------------------------
+                              Page 5
+COPY A QUEST
+Lets you copy an existing Adventure Log to a blank Adventure Log.
+
+ERASE A QUEST
+Lets you erase an existing Adventure Log you no longer need.
+(CAUTION: Once you have erased an Adventure Log, you cannot retrieve
+it. Be certain you want to erase it.)
+
+CHANGE MESSAGE SPEED
+Lets you change the text display speed during play.
+
+                 Important-SAVING THE GAME-Important
+You can save your game by visiting any one of the Kings and/or other
+characters who have access to the Imperial Scrolls of Honor. When you
+wish to rest from the game after saving, remember to hold the RESET
+Button in while turning off the POWER. Otherwise, you may damage the
+valuable saved information of your game.
+
+                          BEGINNING YOUR QUEST
+Select BEGIN A NEW QUEST and press the A Button. The available
+Adventure logs will appear. Select one. The window to register the
+name of your character (who will be the leader of your party) will
+appear (picture 4). Select letters with the +Control Pad and enter
+them by pressing the A Button, one at a time. If you make a mistake,
+use BACK to write over a letter.
+
+You can enter up to 8 letters and/or marks, including a blank space
+which is located below the capital V, but only the first 4 will be
+displayed during play. When you are finished entering the name, select
+END and press the A Button. Then enter the sex of your character and
+the message speed. Your quest will begin momentarily. (Pressing the B
+Button at any time will let you re-start the BEGIN A NEW QUEST
+procedure.)
+
+You are the young Hero of Aliahan. The character sleeping in the bed
+is YOU. Your mother says you have to see the King of Aliahan today.
+Follow her and she will show you the path leading to the castle of
+Aliahan.
+--------------------------------------------------------------
+                                Page 6
+GO TO SEE THE KING
+Go straight ahead and enter the castle. Take the stairs in front of
+you to get to the second floor. Approach the King and listen to what
+he has to say. "Thy enemy shall be the Archfiend Baramos," says the
+King. Trusting you to succeed, he will give you 50 pieces of Gold.
+
+RECRUIT YOUR ALLIES
+The King and his counselor say traveling alone will be too dangerous.
+You need to organize an expedition party. At Luisa's Place, the eatery
+located in the northwest corner of the castle town of Aliahan, you can
+recruit up to three allies to help you in your quest. Walk up to the
+counter in the back, face Luisa (the woman behind the counter) and
+press the A Button. The Command Window will come up. Select TALK and
+press the A Button to talk to her (picture 5). When asked what you
+want, select ADD MEMBER. She will record the current conditions in the
+Imperial Scrolls of Honor and show the list of available characters.
+A customer in the eatery recommends you recruit a Soldier, a Pilgrim,
+and a Wizard.
+
+Initially three ready-made characters are available, but you can
+register characters of your own creation. To do so, go upstairs to the
+Adventurer's Hall of Registration. You can register up to 11
+characters. You will probably enjoy your quest even more with your
+favorite allies.
+
+Registering Characters of Your Own Creation
+
+If you want to register characters of your own creation, go to the
+counter on the second floor of the eatery and select TALK. When the
+window to register a name appears, enter a name. After selecting the
+class and sex of the character, press the A Button to see his/her
+pertinent information. If you like what you see, answer YES. Otherwise
+answer NO. Repeat the process for additional characters. After you are
+done, go downstairs to Luisa. Your newly registered characters should
+appear on the list and you can add them to your party.
+-----------------------------------------------------------------
+                              Page 7
+                         CLASS DESCRIPTION
+Hero
+
+The hero of Dragon Warrior III, you, can use weapons and armor well to
+fight enemies fiercely. You also have the ability to cast spells. Some
+of the spells which you learn will be exclusive to you.
+
+Soldier
+
+A fighting professional. The Soldier can be equipped with most weapons
+and armor, and since his/her growth rate is high, he/she will become
+powerful quite quickly. He/she is not too agile, though, and cannot
+cast any spell.
+
+Pilgrim
+
+With the ability to cast mainly healing and indirect attack spells, a
+Pilgrim can back your party up greatly in battles. He/she also has
+relatively good STRENGTH and can be equipped with many weapons and
+armor. At higher levels, he/she will learn powerful attack spells too.
+
+Wizard
+
+A specialist of attack spells. Even at lower levels, the Wizard can
+use very effective attack spells. However, he/she lacks STRENGTH and
+his/her Attack Power and Defense Power are low compared to those of
+characters in teh other classes. The Wizard can be equipped with a
+limited number of weapons and armor.
+
+Fighter
+
+A master of martial arts, the Fighter posesses a lean, strong body and
+excellent AGILITY. As the level increases, his/her chance of delivering
+a "tremendous hit" grows. Being a master of martial arts, he/she can
+best fight bare-handed. When equipped with ordinary weapons, his/her
+Attack Power may decrease.
+
+Merchant
+
+A Merchant is skillful at finding the most gold pieces. He/she also
+posesses the exclusive ability to appraise items. To use his/her
+appraisal ability, first select ITEM, then the Merchant's name, the
+item to be appraised, and finally APPRAISE.
+
+Goof-off
+
+Without exaggeration, a useless living-being to take along in your
+quest. The only redeeming quality, if any, is that his/her
+irresponsible and unpredictable actions and remarks may make you laugh.
+As Goof-off's level increases, his/her uselessness will become more and
+more apparent. His/her LUCK is tremendous, however.
+
+Sage
+
+A super character, the Sage can learn all the spells of a Pilgrim and
+Wizard. He/she cannot only fight well, but can be equipped with many
+weapons and armor. No character can start as a Sage, however. The only
+way to become a Sage is to gain enough Experience Points and have a
+necessary class change.
+--------------------------------------------------------------
+                              Page 8
+TALK TO EVERYONE
+People in the castle and the town may provide valuable information. You
+speak with someone by facing them, selecting TALK in the Command Window
+and pressing the A button. TALK to everyone in the castle town and in
+the castle of Aliahan. Can you find out what your immediate task is? It
+has something to do with locked doors...
+
+EMBARK ON YOUR QUEST
+Outside lurk many enemies. Fighting and defeating them in battles is
+the way you gain Gold pieces and Experience Points. When a character's
+HP (Hit Points) fall to zero, he/she dies. To restore HP, stay at an
+inn. Both HP and MP (Magic Power) of your characters will be restored
+to the maximum levels.
+
+                     STORES AND OTHER FACILITIES
+
+You will find item stores, weapon stores, House of Healings, and inns
+in many towns, villages, and some unexpected places. Be sure to check
+every item store and weapon store to see available merchandise.
+
+ITEM STORES
+They sell Medical Herbs and other items. You may also sell unneeded
+belongings here. When two or more of you enter a store, you will be
+asked to designate who is buying or selling the items. The total number
+of your Gold pieces will be displayed at the upper right section of the
+screen.
+
+WEAPON STORES
+They sell different kinds of weapons and armor. TALK to the owner
+across the counter. He will show you what is for sale. Select what you
+want to buy. If you do not see anything you want, press the B Button
+to cancel.
+
+INNS
+By staying at an inn you and your allies can regain the maximum HP and
+MP. The cost of staying, quoted by the innkeeper, covers your entire
+party. Inns are open 24 hours a day to accommodate you at any time.
+
+HOUSE OF HEALINGS
+House of Healings perform services for members in your party who have
+been poisoned, cursed, or deceased. The services available are
+DETOXICATE, UNCURSE, and REVIVE. You must pay the proper fee for each
+service.
+-------------------------------------------------------------
+                              Page 9
+VAULT (Located only in Aliahan)
+The Vault is located near the entrance to Luisa's Place. You can leave
+a minimum of 1000 pieces of Gold and belongings there for safekeeping.
+Use the +Control Pad to set the amount. Yu can store your Gold there
+for free, but to store your belongings will cost you...
+
+VAULT CONROLS
+[UP]: Increases the number
+[LEFT]: Moves to the left
+[RIGHT]: Moves to the right
+[DOWN]: Decreases the number
+
+                       ENDING A SESSION PROPERLY
+Your quest in Dragon Warrior III will be a long and hard one. You,
+along with your characters, must rest occasionally. When you wish to
+take a rest, be sure to save the game by seeing one of the Kings and/or
+other characters who have access to the Imperial Scrolls of Honor. Even
+if you are continuing your quest, we recommend you save the game
+periodically so you have the option of going back to the last saved
+point.
+
+HOW TO SAVE
+Stand next to the King, Select TALK. The King will tell you how many
+Experience Points you needs to go to the next level. Have your progress
+recorded in the Imperial Scrolls of Honor. When asked if you wish to
+continue your journey, answer NO to end the session.
+
+             IMPORTANT: HOW TO TURN OFF THE POWER PROPERLY
+After the King's message is displayed, the screen changes to the Ending
+Instruction. Following the Instruction, turn the POWER off while
+holding in the RESET Button on your NES. If you don't hold in the RESET
+Button while turning off the POWER, you may damage your valuable saved
+information and will not be able to continue from the point you saved!
+To continue at a later time, select CONTINUE A QUEST in the Option
+Screen, then your Adventure Log.
+-------------------------------------------------------------
+                              Page 10
+                          THE TWO WINDOWS
+The two windows you see often, besides the Text Window are the Command
+Window and the Status Window (see picture 6).
+
+THE COMMAND WINDOW
+Displays available commands. To learn how to use these commands, see
+the section entitled COMMANDS IN THE WALKABOUT MODE.
+
+THE STATUS WINDOW
+Displays information about you and your allies. H and M stand for Hit
+Points and Magic Power, respectively. The numbers in the bottom row
+show the characters' Levels. Beside each Level number is the class of
+the character.
+
+PAY ATTENTION TO THE COLOR OF WINDOWS
+White: The normal color.
+Green: Someone is seriously injured.
+Orange: Someone is deceased.
+Blue: It is night.
+
+WHAT ARE DE, PO, NM, SL, AND CF?
+When one of these appears where the Level number is usually displayed,
+it means the character is not in a normal state due to enemies' spells,
+poison, or other factors.
+
+DE The character is deceased.
+   Suggested Remedy: Take him/her to any House of Healing and ask for
+   the service, REVIVE. If any of your party knows a spell to revive a
+   deceased character, use it.
+PO The character is poisoned.
+   Suggested Remedy: Unless treated the character will remain poisoned,
+   and for each step taken he/she will lose Hit Points. Use Antidote
+   Herb on the character. Your allies may learn a spell with an
+   antidotal effect.
+NM The character's entire body is numb and immobile.
+   Suggested Remedy: The effect goes away very gradually but to end the
+   numbness quickly, use Full Moon Herb on the character. Your allies
+   may learn a spell which expels numbness.
+SL The character is put to sleep.
+   Suggested Remedy: Defeat the enemies in the current battle
+   completely or break away successfully. Your allies may learn a spell
+   which wakes up the affected character.
+CF The character is confused and disoriented.
+   Suggested Remedy: Defeat the enemies in the current battle
+   completely or break away successfully.
+--------------------------------------------------------------
+                             Page 11
+                   COMMANDS IN THE WALKABOUT MODE
+
+BRING UP THE COMMAND WINDOW
+By pressing the A Button while you are in the walkabout mode, you can
+bring up the Command Window.
+
+SELECT AND ENTER COMMANDS
+Select commands by using the +Control Pad and enter these commands by
+pressing the A Button.
+
+CLOSE THE COMMAND WINDOW
+To close the Command Window, press the B Button.
+
+TALK
+Use this command to talk with the people you will meet. (You should
+speak with everyone to gather neccesary information.) To talk with
+someone, you must be standing next to the person. Turn to the person
+and press the A Button (see picture 7).
+
+At a store or an inn, you can speak across the counter.
+
+By speaking through bars, you can talk with a person in jail.
+
+STATUS
+Let's you do three thing: see the current INFO (for more about this,
+see page 13) of each character, see the current CONDITION of each
+character, and change the FORMATION (a line-up order of your party).
+
+SEARCH
+Let's you search the ground where you are standing. Also lets you
+retrieve the contents of a treasure chest. If you find a treasure
+chest, place your character over the treasure chest and select SEARCH.
+Each character can carry up to eight items only. If your character is
+already carrying eight items, the treasure will be given to the next
+character in the formation. If all of the characters are carrying eight
+items, you have two choices: DISCARD an item and take the treasure or
+give up the treasure.
+WARNING: Once given up, the treasure will not be retrieveable from the
+same treasure chest.
+---------------------------------------------------------------
+                             Page 12
+SPELL
+Use this command to chant magic spells. You and Pilgrim, Wizards, and
+Sages will learn many magic spells. (See the list of magic spells on
+the Dragon Warrior III Map Poster for details.)
+
+ITEM
+This command allows you to see theitems each character is carrying. To
+USE, TRANSFER, or DISCARD a certain item, specify the name of the
+character holding the item, select the item and what you wish to do
+with it. (For Merchants only, APPRAISE is also available.)
+
+To open a door, you must turn toward it and USE a key. (Not all doors
+open with the same key.)
+
+EQUIP
+During your journey you will acquire various kinds of equipment
+including weapons, armor, and shields. You must use EQUIP in order to
+make these items useful to you. Specify the character. The windows for
+Weapon, Armor, Shield, and Helmet will be displayed in this order.
+Select one in each category. Note some characters cannot be equipped
+with certain items. (See the list of Items on the reverse side of the
+Dragon Warrior III Map Poster.) When an item is equipped, the E mark
+will appear beside it.
+NOTE: if there are more selections than can be displayed in one window,
+you will see the -) mark near the upper left corner of the window. Move
+) to -) and keep pressing the A button until you reach the window you
+want.
+
+KNOW YOUR CHARACTERS
+Entering the following command Sequence will display the information
+about a character:
+
+STATUS
+  ||
+  \/
+(Name)
+  ||
+  \/
+ INFO
+-------------------------------------------------------------
+                              Page 13
+                      CHARACTER ATTRIBUTES (INFO)
+LEVEL
+The level of the character. By defeating enemies, some Experience
+Points will be gained and the character's level increases. As the level
+increases, the character's maximum HP and MP increase, and depending on
+the class of the character, he/she will learn different magic spells.
+
+HP (Hit Points)
+The character's Hit Points decrease when enemies inflict damage.
+Walking while poisoned or through damage inflicting terrain, such as
+barrier and poisonous swamp, will also decrease Hit Points. The
+character is defeated when his/her Hit Points fall to zero.
+
+MP (Magic Points)
+This is the power to chant spells. Each time a spell is chanted, MP
+decreases.
+
+G (Gold)
+The total number of Gold pieces you and your allies possess.
+
+STRENGTH
+This is the character's power. More STRENGTH means more Attack Power.
+
+AGILITY
+This is the quickness of the character. It affects the order of action
+taken in battles.
+
+VITALITY
+This is the character's capacity to grow. This affects the way MAX HP
+increase.
+
+IQ
+This affects the way MAX MP increase and how fast the character learns
+new magic spells.
+
+LUCK
+This determines how lucky the character gets when faced with danger.
+The character with higher LUCK has a better chance of RUNning away from
+and evading enemies' magic spells.
+
+MAX HP (Maximum Hit Points)
+The highest number of Hit Points attainable by the character at his/her
+current level. By staying at an inn, all characters will regain their
+Maximum Hit Points.
+
+MAX MP (Maximum Magic Power)
+Like MAX HP, the maximum magic power will be regained by staying at an
+inn.
+
+ATTACK POWER
+This indicates how much damage the character can inflict upon enemies
+with each attack. This figure is equal to the sum of the character's
+STRENGTH and equipped weapon's attack power.
+
+DEFENSE POWER
+This indicates how well the character can minimize the damage inflicted
+by enemies. This figure is equal to the sum of a half of the
+character's AGLILITY and the total defense power of equipped armor,
+shield, and helmet.
+
+EXPERIENCE POINTS(EXP)
+As a character defeats enemies, a certain number of Experience Points
+will be gained. When a character accumulates enough Experience Points,
+he/she will be promoted to the next level. The number gained depends on
+two factors: how strong the defeated enemies are and how many of you it
+took to defeat them. For example, if a single character encounters
+enemies and defeats them, he/she will gain a greater amount of
+Experience Points than he/she would with the aid of allies.
+---------------------------------------------------------------
+                                Page 14
+                      EXAMPLE: TRANSFER AND EQUIP
+Suppose you purchased a Magic Knife and would like to give the Copper
+Sword to the Soldier. You can do this in the following manner:
+
+TRANSFER the Copper Sword to the Soldier
+Select ITEM in the Command Window and press the A Button. The window
+containing names will appear. Select your name and press the A Button.
+You can now select the item you wish to TRANSFER (picture 8). Select
+Copper Sword in the list and press the A Button.
+
+When the window with the commands USE, TRANSFER, and DISCARD appears,
+select TRANSFER and press the A Button. The window with member names
+will appear. Select the Soldier's name (picture 9) and press the A
+Button. The Soldier now has the Copper Sword.
+
+EQUIP the Soldier with the Copper Sword
+Select EQUIP in the Command Window and press the A Button. When names
+are displayed, select the Soldier's name (picture 10). Move the > to
+Copper Sword with the +Control Pad and press the A Button (picture 11).
+Note: E mark is now beside Copper Sword. The E mark points to the item
+that is currently equipped. Now the Soldier is armed with the Copper
+Sword. You can cycle forward through all equipment windows by pressing
+the A Button and backward by pressing the B Button.
+------------------------------------------------------------
+                              Page 15
+                     COMMANDS IN THE FIGHTING MODE
+To reach higher levels, you and your allies must fight many different
+enemies and gain Experience Points by defeating them. When you come
+across an enemy or a band of enemies, you will automatically enter the
+Fighting Mode.
+
+As soon as you enter the mode, the number and kinds of enemies are
+shown and the Fighting Command Window appears. Decide what you and your
+allies should do and specify appropriate actions using the following
+commands.
+
+FIGHT
+This command will let you attack your enemies with the equipped weapon
+(bare-handed when not equipped with anything). Specify which enemy or
+group of enemies you intend to attack.
+
+RUN
+Select this command and you and your allies will try to RUN away from
+the enemies. Watch HP (Hit Points) in the Status Window and if you feel
+Hit Points are dangerously low, try to RUN away. Keep in mind, though,
+enemies may block your path so that you won't be able to escape.
+
+PARRY To keep fighting when Hit Points are low may hasten the
+character's complete defeat. Using PARRY, you can let the character
+concentrate on defense so the amount of damage inflicted by the enemies
+can be reduced by about one half.
+
+SPELL
+Select this command and press the A Button. The list of magic spells
+available to the character will appear. Select which spell to cast with
+the +Control Pad and press the A Button.
+
+If the character can use more magic spells than can be displayed in
+one window, you will see the =) mark near the upper left corner of the
+window. Move ) to =) and press the A Button (picture 12). The next
+window will be displayed. Keep repeating until you reach the window you
+want.
+
+If the magic spell to be cast is of the attack type, specify which
+group of enemies to attack (picture 13).
+-------------------------------------------------------------
+                              Page 16
+If the magic spell is of the defensive type, specify which member of
+your party should be affected. To do so, move ) to =) and press the A
+Button first to display the members of your party and then select the
+name.
+Note: Some spells do not require you to designate intended targets.
+
+ITEM
+One example of this command is the use of a Medical Herb to restore Hit
+Points during a battle. Another example is to cast the spell effect of
+certain weapons and items. For instance, Thor's Sword has an effect
+identical to the Firevolt spell when USEd during a battle. Like the
+SPELL command, you many need to specify who these items will be used
+on. During a battle, you may not transfer or throw away items; however,
+you may change the weapon you fight with.
+
+If you have entered a command which you wish to change, push the B
+Button. Each time you press the B Button, the previous window will
+appear.
+
+When all actions to be taken are specified, a round of a battle begins.
+The order of execution of the actions by participants in a battle
+depends on their Agility. The battle ends when one side is completely
+defeated, the Fighting Command Window will appear so that you may
+specify your choices of actions for the next round.
+
+Note: If there are more selections than can be displayed in one window,
+you will see the =) mark near the upper left corner of the window. Move
+) to =) and keep pressing the A Button until you reach the window you
+want.
+---------------------------------------------------------------
+                                Page 17
+                             DAY AND NIGHT
+In Dragon Warrior III, the passage of time has a profound effect. For
+example, you may find certain people only during the day and others
+only during the night. What people say might change depending upon when
+you talk to them, too. It is recommended that you visit the same place
+during the day as well as during the night.
+
+FIVE LEVELS OF SCREEN BRIGHTNESS
+Only while moving in the field, will time pass. When you are in safe
+places such as cities and towns or while you are standing in field,
+time will not pass.
+
+HOW DAY AND NIGHT DIFFER
+
+	YOU CAN'T VISIT A KING
+	At most castles, guards will stop you from entering if you
+	visit at night.
+
+	MOST STORES CLOSE AT NIGHT
+	Most stores close at night; however, some stores are open at
+	night, and you may find special items at these stores. Inns and
+	House of Healings are open 24 hours a day.
+
+	ENEMIES ARE MORE ACTIVE AT NIGHT
+	The chance of encountering enemies increases at night. Also
+	enemies' party formations are more complicated at night and
+	some enemies appear only after dark.
+
+FOUR WAYS TO REVERSE DAY AND NIGHT
+
+	STAY AT AN INN
+	Stay at any inn and when you wake up, it will always be
+	morning.
+
+	CHANT RETURN
+	After you use the magic spell, Return, it will be morning.
+
+	USE LAMP OF DARKNESS
+	If you possess the Lamp of Darkness, use it. When you light the
+	lamp, you can turn day into night.
+
+	CHANT DAY-NIGHT
+	Chanting this magic spell will turn day into night and night
+	into day.
+---------------------------------------------------------
+                               Page 18
+                         MORE ABOUT FIGHTING
+
+1. WATCH OUT FOR ENEMIES' SPECIAL ATTACK
+Some enemies have the special ability to inflict damage on you in
+addition to their ordinary attack habits. Their Special Attack
+capabilities are listed below. The magic spell, StopSpell, cannot block
+these Special Attacks.
+
+DELIVERED WITH ORDINARY ATTACK
+Special Attack          Target           Effect
+--------------          ------           ------
+Poison                  One member       Each step after the battle
+                                         costs HP.
+Numb                    One member       Remains numb throughout the
+                                         battle.
+Sleep                   One member       Put to sleep during the
+                                         battle.
+
+BREATH ATTACK
+Toxic                   All members      Each step after the battle
+                                         costs HP.
+Flaming                 All members      Recieves 10-50 damage points.
+
+Blizzard                All members      Recieves 10-30 damage points.
+
+Sweet                   All members      Put to sleep during the
+                                         battle.
+Scorching               All members      Remains numb throughout the
+                                         battle.
+
+OTHERS
+Multiple Attack              -           One recieves 2 attack/2
+                                         members recieve 1 attack each.
+Curious Dance           One member       Loses some MP.
+
+Help A                       -           The same kind of enemy may
+                                         appear.
+Help B                       -           A different kind of enemy may
+                                         appear.
+
+2. DIVIDE THE TASK
+During the fight, divide the task of defeating the enemies. While the
+Hero, the Soldier, and the Fighter are attacking the enemies, the
+Pilgrim should concentrate on backing them up with healing and
+defensive magic spells. For example, to heal the ally with low HP using
+Heal, Healmore, Healall, etc., cause a group of enemies to flee with
+Expel, and increase allies' Agility with SpeedUp. The Wizard who can
+use attack spells, which work on a group of enemies or all enemies,
+should specialize in attacking a group of enemies. The Soldier and the
+Fighter, who cannot use spells, should be assigned to attack an
+individual enemy.
+
+3. PROTECT THE WEAK OR INJURED ALLY
+After each battle, check to see who is injured most. If no remedy is
+available, move the weakest or most injured further down in the line
+formation. The closer one is to the front, the more damage he/she will
+recieve in battle.
+----------------------------------------------------------
+                               Page 19
+4. KNOW THE AGILITY OF YOUR ALLIES AND ENEMIES
+
+	A. Bad Example 1: Misjudging Enemies' Agility
+In each round, the order of turn taken by participants depends on their
+Agility. You must assess the Agility of each participant. For example,
+even if you inted to USE a Medical Herb on an injured ally, the
+quicker enemy may attack the ally, defeating him/her before the Medical
+Herb is administered.
+
+	B. Bad Example 2: Misjudging Your Allies' Agility
+Likewise, not assessing the Agility of your allies can result in
+inefficient manuevers. For example, you intend to use the Defence spell
+to lower enemies' defense power. But the member with higher agility
+than the one who is to cast the spell may attack the enemies without
+benefitting from the spell's effect.
+
+5. SURROUND, SLEEP, AND STOPSPELL: THE THREE BASIC SPELLS
+Be an expert in using not only direct attack spells but also these
+three indirect attack spells. These are learned near the beginning of
+the game and could be used quite effectively. At the start of a battle,
+use these spells to decieve (Surround) enemies, put them to sleep
+(Sleep), and block their spells (StopSpell).
+-----------------------------------------------------------
+                              Page 20
+6. CAST SPELLS ON YOUR ALLIES
+
+	A. Put the Member Who Is Confused To Sleep
+Some enemies, such as Derangers, cast the Chaos spell which has a
+devestating effect on your party. Affected members become confused and
+disoriented and can attack your allies! Rather than allowing him/her to
+be a menace, put him/her to sleep with the Sleep Spell. To designate
+the party member to be put to sleep, move > to => near the upper left
+corner of the enemy information window and press the A Button. The
+window which shows the name of your party members will appear.
+
+	B. Transform into a Deceased Ally and Revive the Ally
+The spell, Transform, can transform the user into any member of the
+party. One ultimate example of this usage is transforming into the
+deceased Pilgrim who could cast the Revive spell. After the
+transformation, use Revive to bring the Pilgrim back to life! However,
+transforming back to the original self during the battle is not
+possible.
+
+	C. Get a Supply of MP from Your Ally
+The spell, RobMagic, consumes no Magic Power. When the MP level of a
+certain character decreases, he/she can use RobMagic on another member
+of the party with high MP to get some of his/her MP. Of course, this
+spell can be used on enemies with MP; however, it may not always work.
+Using it on allies always works.
+------------------------------------------------------------
+                             Page 21
+                           SECTION II
+                         A GUIDED QUEST
+                            Itinerary
+The Castle town of Aliahan...............22
+The Village of Reeve.....................23
+The Cave on Promontory &
+The Tower of Najima......................24
+The Cave of Enticement...................26
+The Castle of Romaly.....................27
+The Village of Kanave....................28
+The Village of Noaniels..................29
+The Hidden Village of Elves..............30
+The Cave West of Noaniels................31
+The Tower of Shanpane....................33
+The Town of Assaram......................34
+The Castle Town of Isis..................35
+The Pyramid..............................37
+The Castle Town of Portoga...............39
+The Town of Baharata.....................39
+The Cave East of Baharata................40
+The Shrine South of Portoga..............41
+The Village of Tedanki...................42
+The Village of Lancel....................43
+The Castle of Eginbear...................44
+The Field................................45
+The Village of Soo.......................46
+The Shoals...............................47
+Greenlad.................................47
+The Shrine of Dhama......................48
+The Tower of Garuna......................48
+Jipang and the Cave of Jipang............50
+Village of Muor..........................51
+The Tower of Arp.........................52
+The House of Pirates.....................53
+Luzami...................................54
+The Navel of the Earth...................54
+The New Town.............................55
+The Castle Town of Samanao...............56
+The Cave Southeast of Samanao............57
+The Phantom Ship.........................60
+The Cave of Necrogond....................60
+Liamland.................................63
+The Castle of Baramos....................64
+Tantegel.................................67
+The Village of Kol.......................69
+The Town of Hauksness....................70
+The Town of Cantlin......................71
+The Town of Rimuldar.....................72
+The Cave Northwest of Tantegel...........72
+The Tower West of Kol....................73
+The Rainbow Bridge.......................75
+The Castle of Zoma.......................75
+-----------------------------------------------------------
+                                Page 22
+                 THE CASTLE TOWN OF ALIAHAN - Level 1
+
+Inn: 2 Gold per person
+
+          Weapon Store
+MERCHANDISE       PRICE      A/D
+Cypress Stick         5       +2
+Club                 30       +7
+Copper Sword        100      +12
+Clothes              10       +4
+Wayfarer's Clothes   70       +8
+Leather Armor       150      +12
+Leather Shield       90       +4
+           Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Wing of Wyvern       25      N/A
+
+THE FIRST THINGS TO DO
+As your mother tells you, go see the King of Aliahan. "Thy enemy shall
+be the Archfiend Baramos," says the King. After recieving 50 pieces of
+Gold from the King, go to Luisa's Place as the King's counselor
+advises. At Luisa's Place, recruit 3 allies. (Several ready-made
+characters are available at Luisa's Place, but you can register
+characters of your own creation at the Adventurer's Hall of
+Registration.) The recommended characters to recruit are a Soldier, a
+Pilgrim, and a Wizard. If you have difficulty doing any of the above,
+refer to Section I. The procedures are explained in more detail.
+
+BUY MEDICAL HERBS, ANTIDOTE HERBS, AND A WING OF WYVERN
+Before leaving the town to embark on your quest, buy some Medical
+Herbs, Antidote Herbs, and at least one Wing of Wyvern at the item
+store. USE Medical Herbs to restore some HP, Antidote Herbs to
+neutralize poison, and the Wing of Wyvern to quickly return to Aliahan.
+
+TALK TO EVERYONE
+TALK to everyone in the town and in the castle. Even TALK to the
+prisoners kept in cells located in the basement of the castle.
+You should be able to gather all the neccessary information to let you
+proceed smoothly in the game by TALKing to everyone (including
+animals) you encounter. Be sure to come back and open the locked doors
+as soon as you get proper keys. You will be able to gain more
+information and/or items.
+---------------------------------------------------------------
+                              Page 23
+FIGHT ENEMIES AND BUILD UP LEVELS
+Go out and fight enemies, but don't venture too far at first. Carefully
+watch the HP of each member of your party. USE Medical Herbs to restore
+HP. Go back to Aliahan and stay at the inn or your home to restore the
+maximum HP and MP.
+
+Around the town of Aliahan, you will encounter only weak enemies like
+Slimes and Black Ravens. Fight them and build up your levels to around
+3 before you start exploring areas far from the castle town of Aliahan.
+
+                           They Say.....
+* The Key made by a thief, Bakor, can open doors with simple locks.
+* The old man in the Tower of Najima stole the Key from Bakor.
+* You can go to the Tower of Najima from the cave on the promontory
+  nearby.
+* There is a village of Reeve to the north.
+
+                    THE VILLAGE OF REEVE - Level 3
+
+Inn: 2 Gold per person
+
+          Weapon Store
+MERCHANDISE       PRICE      A/D
+Magic Knife         200      +14
+Thorn Whip          320      +18
+Chain Sickle        550      +24
+Training Suit        80      +10
+Leather Armor       150      +12
+Leather Shield       90       +4
+Leather Helmet       80       +2
+           Item Store
+MERCHANDISE       PRICE      A/D
+Turban              160       +8
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+
+Before going to the Tower of Najima, you may want to visit this
+village. Some of the enemies around the village should give you a good
+challenge before you will be ready for the Tower of Najima.
+-----------------------------------------------------------
+                               Page 24
+                             They Say...
+* There is a cave in the forest south of the village that connects to
+  the Tower of Najima.
+
+         THE CAVE ON PROMONTORY & THE TOWER OF NAJIMA - Level 4
+
+This is the first cave you explore in Dragon Warrior III. You should
+have heard in Aliahan that the old man of this tower stole Bakor's key
+which should open all doors with simple locks.
+
+TWO WAYS TO ENTER THE TOWER OF NAJIMA
+You can enter the Tower of Najima either through the cave on the
+promontory near the castle town of Aliahan or through the cave in the
+forest south of the village of Reeve.
+
+USE THE INN
+Strange as it may seem, there is an inn in the tower. Use the inn as
+often as necessary to restore your HP and MP. You can get there through
+a stairway on the second floor.
+
+GET TREASURES
+When you see a treasure chest, walk over to it, bring up the Command
+Screen by pressing the A Button, select SEARCH, and press the A Button.
+You will open the treasure chest and take whatever is inside.
+-------------------------------------------------------------
+                               Page 25
+
+USE THE WING OF WYVERN
+If you have a Wing of Wyvern, you can return to any place you have
+previously visited. After you find the Thief's Key, jump off the tower.
+Once outside, USE the Wing of Wyvern to return to the castle town of
+Aliahan. If you don't have one, you must walk into the tower, find your
+way out of hte cave, and walk all the way back to the castle town of
+Aliahan.
+
+USE THE KEY
+Use the key to open all Thief's Key Doors in the castle of Aliahan and
+the village of Reeve. TALK to everyone behind them. You will gain more
+information and a very important item you will need to proceed in the
+game.
+--------------------------------------------------------------
+                               Page 26
+                         They Say...(Aliahan)
+* The Travel Door used to be in the easternmost part of Aliahan region.
+* You can break open the seal of the Travel Door using the Magic Ball.
+* There is an old man who makes Magic Balls in the village of Reeve.
+
+                          They Say...(Reeve)
+* There is a small lake over the mountains to the east of the village.
+
+                   THE CAVE OF ENTICEMENT - Level 8
+
+If you have a Magic Ball and the levels of you and your allies are
+around 8, go east of the village of Reeve  and over the mountains.
+Don't forget to take with you a lot of Medical Herbs and Antidote
+Herbs. Quite strong enemies are lurking there! It is a good idea to
+keep at least one Wing of Wyvern so you can retreat quickly.
+
+BREAK THE SEAL OF THE TRAVEL DOOR
+The cave leading to the Travel Door is sealed with a set of stone
+walls. USE the Magic Ball in front of it. Watch the seal break and
+proceed.
+--------------------------------------------------------------
+                               Page 27
+
+FIND THE TRAVEL DOOR AND STEP ON IT
+The Travel Door you heard about in Aliahan is in this cave. It looks
+like a little pond. If you find it, walk over to it and stand still.
+The screen image will start wiggling and black out eventually. Don't
+panic. There is nothing wrong with your NES Control Deck or the Game
+Pak. You are just being transported to another Travel Door. When the
+transport is complete, the image will return back and settle down. Now
+you are at the Travel Door near the castle of Romaly. Upon exiting the
+chamber, you should head north.
+
+                      CASTLE OF ROMALY - Level 10
+
+Inn: 3 Gold per person
+
+          Weapon Store
+MERCHANDISE       PRICE      A/D
+Chain Sickle        550      +24
+Iron Spear          750      +28
+Broad Sword        1500      +33
+Leather Armor       150      +12
+Shell Armor         300      +16
+Bronze Shield       180       +7
+           Item Store
+MERCHANDISE       PRICE      A/D
+Iron Apron          700      +22
+Leather Helmet       80       +2
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+
+TALK TO THE KING
+TALK to the King of Romaly. He will record (save) your progress in the
+Imperial Scrolls of Honor and will ask you a favor...
+------------------------------------------------------------
+                              Page 28
+
+TRY YOUR LUCK AT THE FIGHT RING
+Gamblers at the Fight Ring are betting on monster battles. You may try
+your luck there, but don't get hooked! You have more important things
+to do!
+
+DO YOU NEED THE SERVICE OF REVIVE?
+Passing through the Cave of Enticement may have been very rough. There
+is a House of Healing in Romaly. It is located on the west side of the
+castle of Romaly near the gate.
+
+                             They Say.....
+* Someone called Kandar stole the Golden Crown from the King.
+* Kandar is living in the Tower of Shanpane with his men.
+* The Tower of Shanpane looms far to the west of the village of Kanave.
+* The village of Kanave is far to the north of Romaly.
+
+                  THE VILLAGE OF KANAVE - Level 11
+
+Inn: 4 Gold per person
+
+          Weapon Store
+MERCHANDISE       PRICE      A/D
+Iron Spear          750      +28
+Broad Sword        1500      +33
+Iron Claw           770      +30
+Half Plate Armor   1100      +25
+Fighting Suit       800      +23
+Bronze Shield       180       +7
+Iron Shield         700      +12
+           Item Store
+MERCHANDISE       PRICE      A/D
+Iron Apron          700      +22
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+------------------------------------------------------------
+                               Page 29
+
+You are probably too weak yet to face Kandar at the Tower of Shanpane.
+You'd better gain more Experience Points around this village. Go to the
+eatery located in the northwest corner of the village. TALK to the
+customers there.
+
+WHERE IS THE POISON NEEDLE?
+The old man by the pond in the village says the item store once stocked
+the Poison Needle. But the store owner no longer offers one for sale.
+Maybe it is hidden in the store. Why don't you try sneaking into his
+place while he is asleep?
+
+USE THE VAULT OFTEN
+There is a vault in the castle town of Aliahan. You can leave Gold
+pieces and items there for safe keeping. Each member of your party
+can carry up to 8 items. It is important to carry only the most
+important items because you must have room to accommodate new items you
+will find. Use the vault to keep items you don't need at the moment but
+may want to use later.
+	It is wise to deposit most of your Gold pieces in the vault. If
+your party is destroyed, the person who saved your progress last time
+will resurrect you, but at a cost, half of the Gold pieces in your
+posession to be exact. By keeping most of your Gold pieces in the
+vault, you can minimize your losses greatly. If you use the Return
+spell to get back to the castle town of Aliahan, visiting the vault is
+not much trouble; be prudent and use the vault often.
+
+                              They Say...
+* There is a village which was put to sleep because the villagers made
+  some elves angry.
+
+                   THE VILLAGE OF NOANIELS - Level 12
+
+Inn: 5 Gold per person
+
+           Item Store
+MERCHANDISE       PRICE      A/D
+Wizard's Wand      1500      +15
+Cloak of Evasion   2000      +20
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Spider's Web         35      N/A
+-----------------------------------------------------------
+                               Page 30
+The couple in the Kanave village eatery spoke of this place. Everyone
+seems to be asleep...except an old man on the second floor of the
+building located in the southwest section of the village.
+
+USE INDIRECT ATTACK SPELLS
+Enemies around Kanave and Noaniels are considerably tougher than the
+ones you find around Aliahan. Rather than attacking them directly, let
+the Pilgrim use some of the indirect attack spells, such as Sleep,
+SpeedUp, and Sap.
+
+BEWARE OF AVENGER RAVENS
+They are more dangerous than they look because they attack twice in
+each turn. The only recommended survival measure available at this
+stage of the game is to always maintain high HP levels.
+
+                              They Say...
+* The hidden village of elves is in the west forest.
+* The spell on the village will be broken if the Dream Ruby is returned
+  to the elves.
+
+                 THE HIDDEN VILLAGE OF ELVES - Level 12
+
+           Item Store
+MERCHANDISE       PRICE      A/D
+Magic Robe         3000      +35
+Wizard's Ring      2500      N/A
+Invisibility Herb   300      N/A
+Wing of Wyvern       25      N/A
+Poison Moth Powder  500      N/A
+Spider's Web         35      N/A
+------------------------------------------------------------
+                               Page 31
+
+There is an item store in the village, but hating humans as they do,
+elves don't want your business. They may have some valuable items. Only
+if you can disguise yourselves as some other beings, might they....
+
+                              They Say...
+* An elfin girl, Anne, loved a human male.
+* She took the Dream Ruby and went to him never to return.
+
+                 THE CAVE WEST OF NOANIELS - Level 13
+
+USE THE HEALING SPRING INSIDE
+The Healing Spring is located on the second basement level. Walk to the
+center of the Spring. The HP and the MP will be restored to their
+manimum. Use the spring as many times as necessary.
+
+DO YOU KNOW? 1.
+You can move an often-used item, such as the Thief's Key, to the top of
+your item list. TRANSFER to yourself the item above the one you want
+to move to the top. Repeat the process until the often used item comes
+to the top.
+----------------------------------------------------------
+                               Page 32
+
+WATCH OUT FOR DEADLY TOADSTOOLS
+They are especially dangerous because they can put you to sleep during
+a battle. Once put to sleep, you can only hope you wake up before they
+completely defeat you. So try to defeat them quickly. The IceBolt spell
+seems to work.
+
+RETREAT QUICKLY
+The enemies in this cave are strong. If the situation becomes
+unfavorable, try to retreat. By now, the Wizard should have learned the
+Outside spell, and the Hero the Return Spell. Retreat quickly and
+easily using the Outside (to get out of the cave) and Return (to return
+to the place of your choice) spells.
+
+TAKE THE DREAM RUBY TO ANNE'S MOTHER
+As soon as you find the Dream Ruby in the cave, take it to Anne's
+mother in the Hidden Village of Elves. She will give you the Wake Up
+Powder in gratitude. USE the powder in the village of Noaniels. People
+will start waking up. TALK to the people. Some should tell you what to
+do next.
+
+                              They Say...
+* The Spider's Web will slow monsters down.
+* Long ago, there was a rumor about the Magic Key in Assaram.
+* The town of Assaram is to the east of Romaly.
+
+DO YOU KNOW? 2.
+You can USE the following weapons during a battle to possibly inflict
+the same damage as the corresponding spell without consuming any MP.
+
+WEAPON          USABLE CLASS  CORRESPONDING SPELL    TARGET
+Wizard's Wand       All              Blaze          One Enemy
+Staff of Thunder    All            Firebane      One Group of Enemies
+Staff of Judgement Priest, Sage    Infernos      One Group of Enemies
+Sword of Illusion  Women             Chaos          One Enemy
+Orochi Sword    Hero, Soldier, Sage  Defence     One Group of Enemies
+Snowblast Sword    Hero, Soldier   Snowblast     One Group of Enemies
+Lightning Sword    Hero, Soldier      Boom          All Enemies
+Thor's Sword       Hero, Soldier    Firevolt     One Group of Enemies
+-------------------------------------------------------------
+                              Page 33
+
+                   THE TOWER OF SHANPANE - Level 14
+
+JUMP FROM THE 6TH FLOOR
+After the long climb in the tower, you found Kandar and his men on the
+6th floor. But when you fell into his trap, they escaped. Returning to
+the 6th floor, you find no sign of them and the treasures have
+dissappered as well. Where have they gone? The open wall to the north
+suggests they...
+
+GIVE KANDAR AND HIS MEN A LESSON
+They are many times stronger than the enemies you have encountered.
+Before confronting them, be sure to restore the maximum HP of every
+member in your party. The recommended approach is to defeat each of
+Kandar's men first while putting Kandar to sleep with the Sleep spell.
+The IceBolt spell seems to work. You may be able to defeat Kandar's men
+in three rounds or so. After they are gone, the four of you can give
+Kandar a good workout. If he is not asleep, though, his attack can be
+devestating.
+--------------------------------------------------------------
+                              Page 34
+
+TAKE THE TREASURE
+If you succeed in defeating Kandar and his men, they will leave you a
+treasure chest. Inside, you will find an item wanted by the King of
+Romaly. Take it to the King.
+
+BECOME THE NEW KING OF ROMALY
+The King of Romaly, overjoyed wiht the return of the Golden Crown,
+insists you assume his position. He just doesn't take "NO" for an
+answer...You can proudly say to your friends you finished Dragon
+Warrior III in record time by becoming the King of Romaly and living
+happily ever after...
+
+IF YOU WANT TO CONTINUE YOUR QUEST...
+If you don't want to indulge in the easy life of royalty but would like
+to continue your quest, find the former King and make your request. But
+where is he? His father (in the east tower) says his son likes having a
+good time. Is he having a good time gambling at the Fight Ring?
+
+                   THE TOWN OF ASSARAM - Level 14
+
+Inn: 7 Gold per person
+
+         Weapon Store A
+MERCHANDISE       PRICE      A/D
+Chain Mail          480      +20
+Half Plate Armor   1100      +25
+Bronze Shield       180       +7
+Iron Shield         700      +12
+Iron Apron          700      +22
+Designer Swimsuit 78000       +1
+         Weapon Store B
+MERCHANDISE       PRICE      A/D
+Magic Knife         200      +14
+Chain Sickle        550      +24
+Iron Spear          750      +28
+Broad Sword        1500      +33
+Battle Axe         2500      +40
+         Weapon Store C
+MERCHANDISE       PRICE      A/D
+Battle Axe            ?      +40
+Giant Shears          ?      +48
+Cloak of Evasion      ?      +20
+Turban                ?       +8
+Iron Mask             ?      +16
+Staff of Force        ?      +55
+           Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          ?      N/A
+Antidote Herb         ?      N/A
+Fairy Water           ?      N/A
+Wing of Wyvern        ?      N/A
+Full Moon Herb        ?      N/A
+Spider's Web          ?      N/A
+--------------------------------------------------------
+                               Page 35
+
+An old man in the village of Noaniels revealed he has heard a rumor
+about the Magic Key in Assaram. TALK to everyone in the town of Assaram
+to learn more about the key.
+
+NEGOTIATE THE PRICE
+The weapon store in the northwest section of the town is of dubious
+nature. It may have some wares you really want, but don't agree on the
+first price the owner offers. Even after negotiating, the price he
+settles on may be too high!
+
+VISIT THIS TOWN DURING THE DAY AND NIGHT
+This town has two faces: one for the day and the other for the night.
+There is at least one store which is only open at night. you may also
+see other people at night.
+
+                              They Say...
+* If you walk along the mountains south of the desert, you will come to
+  a shrine.
+* A country named Isis lies in the desert to the west.
+* The Poison Powder can confuse a monster.
+
+                 THE CASTLE TOWN OF ISIS - Level 15
+
+Inn: 10 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Broad Sword        1500      +33
+Battle Axe         2500      +40
+Giant Shears       3700      +48
+Half Plate Armor   1100      +25
+Cloak of Evasion   2900      +20
+Full Plate Armor   2400      +32
+Iron Shield         700      +12
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Leather Helmet       80       +2
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+--------------------------------------------------------
+                                Page 36
+
+Believing the information you obtained in the town of Assaram, you
+traveled south in the desert along the mountains and found a small
+shrine in a swamp. The old man inside said the Magic Key lay in the
+Pyramid in the northern desert. He also advised you to visit the castle
+of Isis first. Why? Is there something you need there?
+
+LOOK FOR THE METEORITE ARMBAND IN THE CASTLE
+There is a man in the town who says wearing the Meteorite Armband makes
+him faster. If you see the owner of the weapon store at night, he will
+reveal that the Meteorite Armband is in the castle. There is a path by
+the wall of the castle. Try entering it on the west side of the gate.
+If you find the Meteorite Armband, select it from the liast of items
+through the ITEM command and USE it to put it on. The wearer's Agility
+is now doubled! Anyone can wear it, but probably having the Pilgrim
+wear it will benefit your party most because he/she will be able to
+cast indirect attack or defensive spells faster than before.
+
+                               They Say...
+* In the north desert, there is a royal grave called Pyramid.
+* In the Pyramid there is a place where spells won't work.
+* There is a secret to the Pyramid in the songs the children sing.
+------------------------------------------------------------
+                               Page 37
+
+                        THE PYRAMID - Level 16
+You heard the Magic Key was hidden in the Pyramid. Doesn't the sealed
+stone wall on the third floor look suspicious? Sorry the Magic Ball
+doesn't work on this one. There must be a way to open it.
+
+SPELLS DON'T WORK IN SOME SECTIONS
+As someone in Isis said, there are sections in the Pyramid where spells
+don't work. Be sure to always carry a sufficient number of herbs.
+
+MAKE MANY TRIPS
+Besides the Magic Key, the Pyramid contains many more treasures. But be
+prepared for strong monsters hiding in some treasure chests. Don't
+expect to retrieve all of the treasures in one trip.
+
+OPEN THE SEALED WALL
+Remember the song the children in the castle of Isis were singing. It
+contained a clue to the mechanism of opening the sealed wall.
+----------------------------------------------------------------
+                              Page 38
+WHAT IS THE GOLDEN CLAW?
+There is a second basement under the Pyramid. SEARCH the entire floor
+of the first basement. You should find a hidden stairway. SEARCH around
+a casket in the second basement. There you will find the Golden Claw.
+Take it and you will notice a dramatic increase in your chance of
+encountering enemies. This is a plus if you want to build up levels
+quickly. What! You don't want it? Then sell it at an item store. You 
+will be richer by 11,250 Gold pieces! However, it is awfully difficult
+to make it to any store alive with the Golden Claw!
+
+GO BACK TO THE CASTLE OF ISIS
+There are a few Magic Key Doors int he castle of Isis. Go there and
+open all of them. The guards won't let you in? Try sneaking in at night
+when they've left their post. If you succeed in seeing the Queen in her
+chamber, she will give you an item which will enable you to restore
+some MP.
+
+GATHER MORE INFORMATION IN ASSARAM
+Visit Assaram again, perhaps at night, to gather more information.
+Consult the leader of the dance troop in the backstage of the theater.
+Try opening all hte doors you see with the Magic Key and TALK to all
+the people behind them.
+
+                          They Say...(Assaram)
+* In the craggy mountains, there is a cave that connects to the eastern
+  lands.
+* There is a secret passage to the east, but Norud the Dwarf won't
+  reveal the passage.
+* Norud's friend, the King of Portoga, may be able to help.
+--------------------------------------------------------------
+                              Page 39
+
+                 THE CASTLE TOWN OF PORTOGA - Level 17
+
+Inn: 10 Gold per person
+
+Go to see the King of this port town and TALK to him. He will reveal to
+you his wish: he wants to taste black pepper. He will give you a Royal
+Scroll. Take it to Norud the Dwarf.
+
+                            They Say...
+* There is a shrine to change occupations in the east.
+* If you bring the King some black pepper, he will give you a ship.
+
+                   THE TOWN OF BAHARATA - Level 18
+
+Inn: 10 Gold per person
+
+           Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Spider's Web         35      N/A
+
+After recieving the Royal Scroll from the King of Portoga, go into the
+cave near the town of Assaram. This cave connects to the eastern lands.
+-------------------------------------------------------------
+                               Page 40
+
+READ NORUD THE DWARF THE ROYAL SCROLL
+Inside the cave, you find Norud the Dwarf. he is not friendly at first.
+Read Norud the Royal Scroll from the King of Portoga (by choosing the
+ITEM command, then the Royal Scroll and USE) Acknowledging the King's
+request, he will make a hole in the cave to the secret passage. Proceed
+through the passage, and you will come up in the eastern lands.
+
+                             They Say...
+* There is a store which usually carries black pepper.
+* The store is not in business because the owner's daughter, Tania,
+  was Kidnapped.
+* The Kidnappers live in a cave nearby.
+* Deep in the northern mountains is the Shrine of Dhama where you can
+  change your profession.
+
+                  THE CAVE EAST OF BAHARATA - Level 19
+
+USE THE X-RAY SPELL
+The Wizard in your party has probably learned the X-Ray spell. If so,
+use the spell before opening a treasure chest. If the chest glows red,
+a monster is inside. If the chest glows blue, it is safe to open.
+------------------------------------------------------------
+                               Page 41
+
+FREE THE COUPLE
+Tania and Galen are locked up in the cells on the second basement
+level. Let them escape, then confront the kidnappers, Kandar and his
+men. Kandar is even stronger than before. Again concentrate on his men
+first. Generally, spells do not seem effective against Kandar, so don't
+waste MP. You probably need to go through many rounds to defeat Kandar
+alone. Don't be discouraged even if he seems undefeatable!
+
+GO BACK TO THE STORE IN BAHARATA
+Galen is safely back and working in the store. TALK to him. He will
+gladly give you some Black Pepper.
+
+RECIEVE A SHIP FROM THE KING OF PORTOGA
+Take the Black Pepper to the King of Portoga and he will give you a
+ship as promised. Go aboard the ship at the dock outside of the castle.
+You are now ready for more exciting and challenging parts of your
+quest!
+
+                THE SHRINE SOUTH OF PORTOGA - Level 19
+
+Drop by the small shrine on the promontory near Portoga and TALK to the
+man downstairs.
+
+                              They Say...
+* If you go south, you'll go around the cape of Tedanki. Going further
+  along the shoreline you will reach Baharata, and finally Jipang.
+* If you collect six (6) Orbs scattered throughout the world, you can
+  travel anywhere without a ship.
+
+DID YOU KNOW? 3.
+The following spells can only be mastered by you, the Hero. Use them
+when the occasion arises.
+
+LEVEL      TYPE       SPELL     TARGET           EFFECT         MP
+ 12      Defensive   Ironize  All Allies   Recieves no damage   6
+ 19        Misc.      Repel                Repels weak enemies  4
+ 26       Attack       Zap    One Enemy   Gives about 80 damage 8
+                                                 points
+ 38      Defensive  Healusall All Allies   Restores HP fully   62
+ 41       Attack    Lightning All Enemies   Gives about 200    30
+                                              damage points
+-----------------------------------------------------------
+                                Page 42
+
+                 THE VILLAGE OF TEDANKI - Level 19
+
+Inn: 31 Gold per person
+
+          Item Store
+MERCHANDISE       PRICE      A/D
+Staff of Force     2500      +55
+Sledge Hammer      6500      +55
+Zombie Slasher     9800      +65
+Sacred Robe        4400      +30
+Bronze Shield       180       +7
+Iron Mask          3500      +25
+
+This is a ghost village. If you go in during the day, you will only see
+a lone body in a prison cell. Try TALKing to the body. You will find a
+scrawl on the wall nearby. It displays a strange message...
+
+Be sure to come back at night. You will see many people (or ghosts?).
+TALK to them. You will gain some valuable information. You will even
+find an inn and a weapon store. The store carries expensive but
+excellent weapons and armor.
+
+                              They Say...
+* The scrawl by the body says, "I wanted to give someone the Orb I had
+  while I was still alive."
+* You will see a volcano's crater if you go around the cape of Tedanki
+  and go up the river.
+* The Archfiend resides deep in the northern mountains of the
+  Necrogond.
+* The man behind a swamp tells you to find the Final Key which unlocks
+  the door o fhte jail. He instructs you to go to the island of Lancel
+  south of Baharata.
+--------------------------------------------------------------
+                                Page 43
+
+                    THE VILLAGE OF LANCEL - Level 19
+
+Inn: 15 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Magic Knife         200      +14
+Iron Spear          750      +28
+Battle Axe         2500      +40
+Sledge Hammer      6500      +55
+Cloak of Evasion   2900      +20
+Magic Robe         4400      +30
+Iron Mask          3500      +25
+          Item Store
+MERCHANDISE       PRICE      A/D
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Invisibility Herb   300      N/A
+
+A girl asks you to buy an Invisibility Herb at the store her father
+runs. A man by the shrine suggests you go to Eginbear if you have an
+Invisibility Herb. The Invisibility Herb isn't cheap, but it may prove
+a very valuable posession.
+
+                            They Say...
+* To obtain the Final Key, you need some kind of vase.
+* The Vase of Drought is supposed to be in the castle of Eginbear in
+  the island country to the north of Portoga.
+* If you have an Invisibility Herb, go to Eginbear.
+* Fron the shrine, you can go to the cave known as the Navel of the
+  Earth.
+
+DID YOU KNOW? 4.
+You should choose the type of direct attack spells according to the
+enemy type.
+
+For example, many enemies in the sea, such as King Squids and Crabus,
+accomstumed to cold sea water, have strong immune systems against the
+spells in the Frigid Family (IceBolt, SnowBlast, etc.) You should use
+spells in the other families, such as Blaze and Firebal against them.
+On the other hand, you should use spells in the Frigid Family against
+enemies who breathe out blaze, such as Lava Bashers and Orochi. The
+spells in the Blaze Family seem to have no effect on them.
+------------------------------------------------------------
+                                Page 44
+
+                  THE CASTLE OF EGINBEAR - Level 19
+
+The guard at the gate won't let you pass because you are yokels. He
+doesn't like your looks, so fool him by becoming invisible.
+
+USE the Invisibility Herb you purchased at the Village of Lancel. Move
+along quickly because the effect does not last long.
+
+ARRANGE THE 3 BOULDERS ON THE BLUE FLOOR
+There is a chamber with three boulders in the basement of the castle.
+You must arrange the 3 boulders on the blue floor. This is a puzzle.
+You can push but cannot pull a boulder. Have fun! If you make a
+mistake, exit the chamber and re-enter to start over. If you cannot
+arrange the 3 boulders on the blue floor, see the hint on page 78. When
+you succeed, you will...
+
+CHECK THE KING'S CHAMBER AT NIGHT
+The King's counselor is doing something he doesn't want others to know
+about. For agreeing to keep quiet about it, he will tell you
+something...
+
+                               They Say...
+* A vase which has the power to dry up the ocean exists in this world.
+* Long ago a shrine sunk into the ocean and now there are shoals there.
+* On the shore of the continent to the west there is a small field
+  surrounded by trees.
+----------------------------------------------------------
+                              Page 45
+
+                        THE FIELD - Level 19
+
+The King's Counselor in Eginbear mentioned the existence of the field
+surounded by trees on the shore of the western continent. There is an
+old man here. His vision is to build a new town, but he needs the help
+of a merchant...
+
+HELP THE OLD MAN
+Won't you help this poor old man fulfill his dream. Bring him a
+merchant from Aliahan! Go back to the castle town of Aliahan, to the
+Adventurer's Hall of Registration on the second floor of Luisa's Place,
+register a Merchant, and bring the Merchant here. (You must LEAVE one
+of your allies at Luisa's Place before ADDing the Merchant to your
+party.) If you haven't learned how to change a party member, refer to
+Section I, page 6.
+The Merchant doesn't need much experience. Just be sure to bring
+him/her to the field alive! You should keep him/her last in your
+formation for the best protection. (Use STATUS, then FORMATION to
+change the line-up.)
+
+TALK TO THE OLD MAN
+TALK to the old man after presenting the Merchant to him...Overjoyed
+with the hope of fulfilling his dream, he will give you some
+information.
+
+WATCH OUT FOR HADES' CONDORS
+They can use the Limbo spell on you and your allies. The spell will
+send the affected character away to limbo! If you are unfortunate
+enough to experience this, don't panic. You can always re-start the
+game, right? If you don't want to start over, you can look for the
+missing character. He/she will be returned to this world unscathed. You
+just need to find him/her. If you cannot, see the hint on page 78.
+
+                              They Say...
+*Check the area around the well in the Village of Soo, located in the
+ middle of this continent.
+--------------------------------------------------------------
+                               Page 46
+
+                     THE VILLAGE OF SOO - Level 19
+
+Inn: 5 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Cypress Stick         5       +2
+Club                 30       +7
+Poison Needle        10      +10
+Thorn Whip          320      +18
+Clothes              10       +4
+Flashy Clothes     1300      +28
+Fighting Suit       800      +23
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Poison Moth Powder  500      N/A
+Invisibility Herb   300      N/A
+
+FIND THE STAFF OF THUNDER
+Follow the instruction given you by the old man at the field surrounded
+by trees, and you will find the Staff of Thunder. When USEd during
+battle, this item can inflict the same damage as the Firebane spell.
+
+TALK TO EVERYONE AND EVERY ANIMAL
+At least one animal in this village talks and can give you a clue as to
+where the Vase of Drought should be used.
+
+                              They Say...
+* A great wizard lives in a field on the ice-covered island. Greenlad,
+  in the north sea.
+* Use the Vase of Drought in the shoals of the western ocean.
+* The Echoing Flute is in a Tower somewhere.
+* If you play the Echoing Flute in a place where an orb is near, an
+  echo will come back.
+-------------------------------------------------------------
+                              Page 47
+
+                      THE SHOALS - Level 20
+
+If you TALKed to the talking horse in the village of Soo, you know
+where to look for the shoals. There you may use the Vase of Drought.
+
+USE the Vase of Drought by the shoals in the ocean west of the village
+of Soo. Enter the shrine which surfaces from the ocean. Inside you will
+see a treasure chest containing the Final Key. With that key, you will
+be able to open all types of doors! Begin with the door in the shrine.
+
+                              They Say...
+* There is a great pit called Giaga, deep in the mountains of
+Necrogond. All misfortunes emanate from that pit.
+
+GO TO THE VILLAGE OF TEDANKI AT NIGHT
+Do you remember the cell in the village of Tedanki which had a scrawl
+on the wall? At night, a guard blocks the opening to the cell, but
+there is a door there and you now have the Final Key. Enter the cell at
+night and TALK to the prisoner. He will give you an important
+item...Don't forget to TALK to him after recieving the item.
+
+                           They Say...(Tedanki)
+* There is an altar in Liamland in the distant south of Tedanki to
+  place an orb on.
+
+                          THE GREENLAD - Level 20
+
+Someone in the village of Soo mentioned a great wizard living on the
+island called Greenlad in the north sea. Go see him. To get to his
+cabin, enter a little greenfield on the ice-covered island and
+proceed straight ahead for awhile.
+
+                              They Say...
+* Many years ago, pirates came and left a strange bone.
+* With the Staff of Change you can change your shape and the King of
+  Samanao is rumored to have it.
+---------------------------------------------------------------
+                                Page 48
+
+                     THE SHRINE OF DHAMA - Level 20
+
+Inn: 2 Gold per person
+
+Before going to Samanao, navigate eastward along the shoreline around
+Baharata. If you go up to the river to the east of Baharata, you will
+find this shrine. To the left of the old man at the entrance to the
+shrine, are the stairs to an inn and a House of Healing.
+
+CONVENIENT PLACE TO SAVE
+Use the Return spell to come here, and see the old man at the entrance.
+He will record (save) your game.
+
+CHANGE CLASS IF YOU LIKE
+Anyone who has reached level 20 can have a class change. To do so,
+enter the shrine and see the man in the middle. With a class change,
+for example, a Wizard can become a Soldier. The new Soldier would not
+learn any new spells but would be able to use all the spells learned
+while he/she was the Wizard. Note the following:
+
+1. After a Class Change, the character's attributes, such as STRENGTH,
+AGILITY, and INTELLIGENCE will be halved and the level begins at 1
+again.
+2. The spells learned prior to a Class Change will not be forgotten,
+but the special talent, such as Merchant's appraisal ability, will be
+lost.
+3. After a Class Change, each weapon and armor the character was
+equipped with will be removed. Be sure to re-EQUIP him/her with
+appropriate weapons and armor.
+
+Make a copy of your current Adventure Log before attempting a class
+change so that you may resume the pre-class-change condition if you
+wish.
+
+                  THE TOWER OF GARUNA - Level 21
+------------------------------------------------------------
+                             Page 49
+
+Someone said the Book of Satori was in this tower. Even if you don't
+want to have a class change, come here to gain Experience Points before
+going to Jipang. This tower is not very spacious but should entertain
+you for some time with intricate connections between rooms. On the
+first floor, there are four Travel Doors. The right choice of doors
+will get you to the other floors.
+
+WHERE IS THE BOOK OF SATORI?
+To reach some floors in this tower, you must fall from the tightropes
+or fall into the traps. The Book of Satori is in a treasure chest on
+one of these floors...
+
+WHAT IS THE BOOK OF SATORI?
+Anyone who wants to become a Sage must read this book to reach the
+state of enlightenment before requesting for a class change.
+(Possession alone will suffice.) Only the person who has this book at
+the time of the class change will be offered the chance to become a
+Sage. (In each quest, only one Book of Satori is available.)
+-------------------------------------------------------------
+                              Page 50
+
+              JIPANG AND THE CAVE OF JIPANG - Level 23
+
+JIPANG
+The Monster, Orochi, is terrorizing the villagers of Jipang. Himiko,
+the female ruler, picks female offerings according to her own prophecy.
+She seems cold-hearted and strange, especially at night...
+
+                             They Say...
+* Himiko has something like a crystal ball.
+* Himiko makes a strange "Sss...Sss..." sound while sleeping.
+
+THE CAVE OF JIPANG
+Oozing with bright red molten lava, this cave looks hostile. However,
+the cave itself is small and easy to travel. On the second basement
+level, the monster, Orochi, awaits you.
+
+CONFUSED?
+Derangers are quite a menace because they can confuse and disorient you
+and your allies with the Chaos spell. If this occurs, you may attack
+each other! What can you do to stop the affected person(s) from 
+attacking the others? The 
+------------------------------------------------------------
+                               Page 51
+
+only effective solution: put the affected person(s) to sleep 
+(use the Sleep spell). If the Pilgrim is put to sleep, you are out of 
+luck!
+
+DEFEAT THE OROCHI
+The Orochi has more than one head and consequently can attack you with
+more than one blaze in each turn. The Sleep spell seems to work
+sometimes, and the spells in the Frigid Family seem to work fairly
+well. The Pilgrim might wish to decrease the defense power of the
+Orochi at the beginning of a battle using Sap. He/she should also try
+to maintain the HP of each member in the party at a sufficient level
+while the Hero and the Soldier concentrate on delivering blows to the
+Orochi.
+
+CHASE THE DEFEATED OROCHI
+Chase the defeated Orochi. It will lead you to Himiko's room. It seems
+she suffered a terrible injury. Is she the Orochi? Restore the maximum
+HP of each member in the party and TALK to her. Show no mercy as you
+begin your battle with Himiko's true form...the Orochi. When you defeat
+the Orochi for the second and final time, you will find...
+
+                    THE VILLAGE OF MUOR - Level 21
+
+Inn: 12 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Staff of Judgement 2700      +35
+Sledge Hammer      6500      +55
+Full Plate Armor   2400      +32
+Cloak of Evasion   2900      +20
+Fighting Suit       800      +23
+Iron Mask          3500      +25
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Poison Moth Powder  500      N/A
+---------------------------------------------------------
+                                 Page 52
+
+Almost everyone in this remote village near icy fields thinks you have
+a striking resemblance to Papagatero, who visited here a long time ago.
+An old man says Papagatero was from Aliahan...and he was known as
+O-R-T-E-G-A. You now know your father, Ortega, was once here. A kid
+named Popota gives you his Water Blaster which Ortega made for him
+while he was here. Good luck finding Popota!
+
+WHAT IS THE WATER BLASTER?
+The innocent looking device your father made while here must have some
+special power, or so it seems. You try to USE it on each villager in
+your way, and find to your amazement...the Water Blaster only excels
+in surprising people with cool spurting water but in nothing
+else...Well, that's all, folks! You'd better hurry!
+
+                      THE TOWER OF ARP - Level 23
+
+Someone in the village of Soo said the Echoing Flute was in a tower
+somewhere. Is this the one?
+
+JUMP OFF THE TIGHTROPE
+There are four treasure chests on the third floor of this tower. The
+path to reach them will not be easy. Once you reach the fifth floor and
+walk toward the middle of the tightropes, mark your steps well and
+jump. One of the four treasure chests contains...
+-------------------------------------------------------------
+                                Page 53
+
+                    THE HOUSE OF PIRATES - Level 21
+
+At night, you can TALK to the pirates. They don't seem hostile. You can
+expect to gather valuable information from them. The leader of the
+pirates is a woman. Watch what you say when you TALK to her. If she
+doesn't like the way you talk, she may withhold some important
+information.
+
+PLAY THE ECHOING FLUTE HERE
+Play the Echoing Flute in the house. Do you hear the echoes? If so, an
+Orb must be nearby.
+
+USE THE VAULT OFTEN
+You checked the basement of the house, and you found no Orb. Have you
+checked the house's perimeter? Don't you think the boulder outside on
+the east side of the house peculiar? SEARCH the area around or below
+the boulder and you will find...
+
+                              They Say...
+
+* Long ago, they once saw a Phantom Ship wandering in the seas.
+* They probably came across the Phantom Ship because they used the
+  Sailor's Thigh Bone.
+* They gave the bone to an old man in Greenlad.
+* There is an island of Lugami to the south and slightly to the west of
+  the House of Pirates.
+-------------------------------------------------------------
+                                Page 54
+
+                           LUZAMI - Level 23
+
+On this forgotten island, there is a prophet. TALK to him, and he will
+reveal your destiny. Also TALK to the man behind a counter in a little
+building. He sells nothing, but has vital information for you.
+
+SEARCH THE FLOWER GARDEN
+You will find a not-so-vital item there...
+
+                                They Say...
+* The shrine of the Archfiend is deep in the mountains of the
+  Necrogond.
+* You will heave the Sword of Gaia into a volcano's crater, and your
+  own path will unfold.
+* The Sword of Gaia was possessed by a man called Simon.
+
+                   THE NAVEL OF THE EARTH - Level 27
+
+In the Village of Lancel, there is a big shrine on the north side. Go
+there and open all the doors you see with the Final Key. Don't miss
+doors around the gate of the shrine. TALK to everyone. There you will
+find two prophets.
+
+ACCEPT THE CHALLENGE
+At the shrine, you alone will be asked to test your courage. Accept the
+challenge, but be sure you are properly equipped. The Zombie Slasher,
+the Magic Armor, the Iron Mask, and the Iron Shield should help you
+meet the challenge. You should also carry the Final Key and wear (USE)
+the Meteorite Armband for the occasion.
+
+DON'T BE DISCOURAGED BY MIMICS
+There are several treasure chests inside the cave. Some of them are
+Mimics, lethal monster, which can cast the devestating Defeat spell. Be
+sure to open every treasure chest. One of them contains a very
+important item, and another a splendid suit of armor.
+
+                             They Say...
+* The companion you have parted with will help you fulfill your hopes.
+* The Yellow Orb has passed from hand to hand and circled the globe.
+------------------------------------------------------------
+                              Page 55
+
+                      THE NEW TOWN - Level N/A
+
+Occasionally visit the New town and the Merchant you left with the old
+man at the field surrounded by trees. (If you don't see any change
+between each visit, take a short break between each visit or push the
+RESET button on your NES. Be sure to save your progress before doing
+either of these.)
+-------------------------------------------------------------
+                              Page 56
+
+Isn't it exciting to see the town growing? The Merchant seems to be
+doing a good job of developing the town...
+But after a few visits, you notice the towns people begin to complain
+about the Merchant's way of doing business. Perhaps the Merchant has
+become too greedy...
+
+Keep visiting this new town. You will meet wayfarers who have traveled
+farther than you. They will tell you new things. Eventually one of the
+items you need, as a prophet in Lancel said, will end up in this
+town...
+
+                 THE CASTLE TOWN OF SAMANAO - Level 27
+
+Inn: 12 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Iron Claw           770      +30
+Staff of Judgement 2700      +35
+Zombie Slasher     9800      +65
+Dragon Killer     15000      +77
+Magic Armor        5800      +40
+Silver Shield      8800      +30
+Wizard's Wand      1500      +15
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Poison Moth Powder  500      N/A
+
+Do you remember the Great Wizard on Greenlad? He said he wanted the
+Staff of Change. He also said he had heard the rumor that the Staff of
+Change was kept by the King of Samanao. It's time to visit Samanao.
+--------------------------------------------------------------
+                                Page 57
+
+HOW TO GET HERE
+To reach here for the first time, you must use Travel Doors. Find a
+shrine to the south of Greenlad. Of the three Travel Doors inside, step
+on the one to the right. (Use the other two Travel Doors and you will
+gain information about the Promontory of Olivia.) Once transported,
+venture to the north, cross the bridge, and walk to the southwest along
+the mountains.
+
+GET INTO THE CASTLE
+The entrance is strictly guarded. Even Invisibility Herbs won't help.
+If the front door doesn't work, try a back door. There is one for the
+kitchen on the east side of the castle. Go to see the King in the
+center of the castle. You will be caught by his guards and taken to the
+jail downstairs. A short stay in the jail will provide valuable
+information...
+
+                               They Say...
+* The "King" sleeps alone upstairs at night.
+* Someone stole the Staff of Change from the true King and assumed his
+  form.
+* The Mirror of Ra which shows the true image of all those reflected in
+  it, lies in a cave to the south.
+* Simon rotted away in the jail of a shrine in a lake in the northeast
+  of distant Romaly.
+
+                THE CAVE SOUTHEAST OF SAMANAO - Level 28
+
+A prisoner in samanao said you would find the Mirror of Ra in this
+cave. The second basement is filled with many treasure chests. You can
+be greedy for a moment and indulge yourselves in a treasure hunt, but
+beward that some of them are Mimics; lethal monsters.
+-------------------------------------------------------------
+                               Page 58
+-------------------------------------------------------------
+                               Page 59
+
+SEE THE REFLECTION OF THE "KING" OF SAMANAO
+Once you have the Mirror of Ra, wait until night falls and sneak into
+the King's chamber. (See the illustration of the castle of Samanao. If
+you cannot figure out how to get to his chamber, see the hint on page
+78.) Stand by the sleeping King and USE the Mirror of Ra. The true form
+of the monster will be reflected upon the mirror. When defeated, the
+monster will leave a treasure chest. It contains...
+
+TRY THE STAFF OF CHANGE YOURSELF
+The Staff of Change is too good to give to the Great Wizard without
+giving it a try yourself. USE it to change your appearance. (See for
+the first time the profiles of Slime!)
+
+After having some fun with it, imagine ways to put the staff to real
+use. Do you remember the item store in the Hidden Village of Elves?
+They didn't want your business, but if you can assume the form of
+Elves, they should treat you right. The Wizard's Ring and the Magic
+Robe will be good buys.
+
+USE THE VAULT OFTEN
+Being thankful, he will give you the Sailor's Thigh Bone. This item
+indicates the distance between you and the wandering Phantom Ship. USE
+it to help you zero in on the ship.
+
+DID YOU KNOW? 5.
+You can reduce the potential damage enemies inflict by employing the
+"PARRY-FIGHT" technique.
+
+Select PARRY and press the A Button. Cancel the selection by pressing
+the B. Button, and then select FIGHT and press the A Button. By
+employing this technique, you can attack enemies while benefiting from 
+the effect of PARRY. You may think the extra steps required a nuisance,
+but this technique will be quite useful against strong enemies.
+
+Notice the difference!
+Right: Usual; Left: PARRY-FIGHT
+------------------------------------------------------------
+
+                               Page 60
+
+                    THE PHANTOM SHIP - Level 28
+
+It takes time to find the Phantom Ship, since it is sailing aimlessly
+all over the world. If you find it, pull your ship alongside and board
+the Phantom Ship. TALK to everyone (alive or not). In a room on the
+lower deck, you will find some treasure chests. One of them contains
+the Locket of Love. But which is it?
+
+GO TO THE PROMONTORY OF OLIVIA
+If you've TALKed to the old man at the Promontory of Olivia, you
+should be able to guess what to do with the Locket of Love. While your
+ship is being pulled back past the promontory by the curse of Olivia,
+USE the Locket of Love. The curse will be lifted and you can now go
+to...
+
+GET INSIDE THE SHRINE JAIL IN THE LAKE
+TALK to everything (including fires!) You will find the spirit of Simon
+there and it will instruct you to SEARCH around his body. You will
+find...
+
+                   THE CAVE OF NECROGOND - Level 32
+-------------------------------------------------------------
+                               Page 61
+
+The prophet in Luzami said you would heave the Sword of Gaia into a
+volcano's crater and your own path would unfold before you. Go to the
+crater to the south of Assaram and heave (USE) the Sword of Gaia into
+the crater. It will erupt, causing molten lava to flow into the river
+and solidify, connecting the shore to the valley of Necrogond. Walk
+south and you will reach the cave of Necrogond (if you are strong
+enough.)
+
+PENETRATE THE CAVE
+On the other side of the cave, there is a tiny shrine. At this shrine,
+you will find another Orb. Don't let the short distance between two
+openings of the cave entice you to enter unprepared. Many monsters,
+more powerful and devestating than any you have encountered so far,
+await you inside. It will not be easy to reach the other side of the
+cave, but don't give up. Make as many retreats as you need using the
+Outside and Return spells.
+Think of this cave as the last training ground before confronting the
+Archfiend, Baramos. If you cannot penetrate this cave, you won't stand
+a chance against Baramos.
+Be sure to check every treasure chest while you are in the cave. Two of
+the most sought-after weapons and armor are hidden in the cave: the
+Lightning Sword and the Swordedge Armor.
+--------------------------------------------------------------
+                              Page 62
+--------------------------------------------------------------
+                              Page 63
+
+                        LIAMLAND - Level 34
+
+So you finally reached the other side of the cave of Necrogond and
+recieved another Orb from the old man in the tiny shrine.
+
+                          CONGRATULATIONS!
+
+Now you have all six Orbs: Green, Purple, Red, Blue, Yellow, and
+Silver. What? You don't have six Orbs yet? There is no point in coming
+to Liamland unless you have them all! You must retreat and retrieve the
+remaining Orbs. See page 79 if you need hints on locating the remaining
+Orbs.
+
+Take all six Orbs to the chamber in Liamland. Place one of the six Orbs
+on each pedestal in the altar attended by twin maidens. (To place an
+Orb, approach one of six pedestals, select ITEM, then an Orb, and
+finally USE.) Colors are of no significance. You can place any Orb on
+any pedestal.
+After placing all six Orbs on the pedestals, wait patiently. The
+legendary bird, Ramia, will resurrect before your eyes. She will fly
+you to the castle of Baramos.
+
+HOW TO RIDE RAMIA
+To ride Ramia, move the lead character of your party over the back of
+Ramia and press the A button. The rest of the party will follow. Using
+the +Control Pad, direct Ramia to fly in the direction of your choice.
+Your perseverance has paid off! Now you can soar over the land of
+Dragon Warrior III.
+
+HOW TO LAND
+To land, press the A Button. Move your party, using the +Control Pad,
+off Ramia. Note you cannot direct Ramia to land on places where you
+cannot walk, such as craggy mountains and seas.
+----------------------------------------------------------------
+                              Page 64
+
+                    THE CASTLE OF BARAMOS - Level 34
+
+After enjoying some relaxing excursions in the sky on Ramia, you set
+out to launch and assault against "thy enemy," the infamous Archfiend
+Baramos in the Necrogond...
+
+The castle doesn't seem large, but even with a map you would have a
+hard time navigating through the castle. Can you reach the chamber with
+three treasure chests? One of them should contain the Demon Axe,
+probably the strongest weapon a Soldier can be equipped with in the
+world of Dragon Warrior III. (Be sure to EQUIP the Soldier with the
+weapon as soon as you find it.)
+
+In the basement of this castle, awaits Baramos. Can you find the way to
+the basement? If you have trouble reaching the basement, see the hint
+on page 79.
+--------------------------------------------------------------
+                              Page 65
+
+HOW TO FIGHT BARAMOS
+Before the battle with Baramos begins, be sure to restore the maximum
+HP of every memer of your party.
+As soon as the battle starts, have the Wizard cast the Bikill spell on
+allies to double their attack powers and have the Pilgrim or the Sage
+cast the Increase spell to maximize their defense power.
+You can be assured that no spell will work on Baramos. So don't waste
+turns or valuable MP casting spells on Baramos. The Pilgrim or the Sage
+should pay attention to the HP of each member of the party and heal
+the wounded.
+With the Wizard and the Pilgrim or the Sage as the support group, the
+members who excel in fighting (the Hero, the Soldier, etc.) should keep
+delivering direct blows. The battle will be a long one, but with good
+teamwork, you should prevail...
+--------------------------------------------------------------
+                              Page 66
+
+So you defeated the Archfiend Baramos. The quest was long and at some
+points you thought you would never make it to the end. But you have
+persevered. It's time to return to Aliahan and tell the world what you
+accomplished!
+When you arrive at the town of Aliahan, everyone in the town already
+seems to know of your feat and they thank you. The King of Aliahan
+commends your quest and orders a celebration...but then...an unearthly
+voice is heard out of nowhere...
+
+"Ha, ha, ha!"
+"I am Zoma, Master Archfiend who rules the dark realms."
+"By the powers I possess, before long, this world too will be locked in
+darkness..."
+
+The King, depressed with yet another threat from the dark realm,
+dismisses you. You are exhausted but decide to continue your quest.
+Where do you go from here...and how?
+Remembering the Great Pit of Giaga near the castle of Baramos, you
+visit it again. There is a hole in the floor now. Being suspicious, you
+jump into it and enter.
+
+                         THE WORLD OF DARKNESS
+-------------------------------------------------------------
+                              Page 67
+
+                        TANTEGEL - Level 35
+
+Inn: 1 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Wizard's Wand      1500      +15
+Staff of Judgement 2700      +35
+Dragon Killer     15000      +77
+Falcon Sword      25000       +5
+Sacred Robe        4400      +30
+Dragon Mail        9800      +45
+Magic Robe         3000      +35
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Invisibility Herb   300      N/A
+
+THE CASTLE TOWN
+You must gather information again by TALKing to everyone you see. Be
+sure to open locked doors if you see any. You will be surprised by who
+you know in this town. He is on the second floor of the building on the
+north side of town. He seems reformed now and, in appreciation of the
+compassion you once showed him, gives you some information.
+
+                             They Say...
+* The Stones of Sunlight are in Tantegal Castle
+* When rain and sunlight are combined, a Rainbow Bridge will form.
+---------------------------------------------------------------
+                              Page 68
+
+WHERE ARE THE STONES OF SUNLIGHT?
+They don't seem to be in the underground chamber outside the castle as
+you may have hoped. Things aren't that simple. Your old acquaintance in
+the castle town said "...in Tantegal Castle." Shouldn't you look for it
+"inside" the castle instead?
+
+                             They Say...
+* The Master Archfiend's castle is across the sea.
+* It may be possible to defeat the Master Archfiend, Zoma, if you
+  possess at least the Sword of Kings, the Armor of Radiance, and the
+  Shield of Heroes.
+* The village of Kol is east of Tantegel by boat.
+* The Fairy Flute may be in the village of Kol.
+* The spirit, Rubiss is sealed in by a curse of the Archfiend.
+-------------------------------------------------------------
+                             Page 69
+
+                  THE VILLAGE OF KOL - Level 36
+
+Inn: 31 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Broad Sword        1500      +33
+Sledge Hammer      6500      +55
+Dragon Mail        9800      +45
+Water Flying Clotl12500      +40
+Silver Shield      8800      +30
+Iron Mask          3500      +25
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+More merchandise may become available.
+
+In this village, you find a couple from Jipang. According to the wife,
+they fled Jipang when it looked like they were to become the next
+offerings to the Orochi. She also mentions that her husband used to be
+a swordsmith in Jipang. He now runs the item store in the town. Do you
+think he can help you in some way?
+
+                               They Say...
+* Rubiss is sealed inside a Tower on an island to the west.
+* The Sphere of light should weaken the magical powers of the
+  Archfiend.
+* The Sword of Kings was shattered into pieces by the Archfiend.
+* The owner of the item store buys useless things, restores them, and
+  resells them.
+* The owner of the item store is from Jipang and he used to be a
+  swordsmith.
+* The Sword of Kings was made of Oricon.
+* The Fairy Flute should free Rubiss from the curse that turned her
+  into a stone statue.
+--------------------------------------------------------------
+                              Page 70
+
+                  THE TOWN OF HAUKSNESS - Level 37
+
+Inn: 25 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Zombie Slasher     9800      +65
+Staff of Judgement 2700      +35
+Sacred Robe        4400      +30
+Dragon Mail        9800      +45
+Shield of Strength15000      +40
+Designer Swimsuit 78000       +1
+          Item Store
+MERCHANDISE       PRICE      A/D
+Medical Herb          8      N/A
+Antidote Herb        10      N/A
+Fairy Water          20      N/A
+Wing of Wyvern       25      N/A
+Full Moon Herb       30      N/A
+Poison Moth Powder  500      N/A
+
+FIND ORICON
+There is a man who is also looking for Oricon. He says he heard there
+were some in this town. TALK to the two women in the outer eastern
+section of the town. One of them says she saw something glittering
+in...SEARCH the area.
+
+CHECK OUTSIDE THE SOUTHERN PART OF TOWN
+There are a few buildings and a pasture there. Don't overlook them.
+
+                             They Say...
+* A flute is buried four steps south of the bath in Kol.
+* The Sphere of Light is in the world above.
+--------------------------------------------------------------
+                               Page 71
+
+GO BACK TO THE VILLAGE OF KOL
+You now have the Oricon. But what does it do? Well, it is of no use to
+you unprocessed. Do you remember the item store owner who used to be a
+swordsmith in Jipang. Perhaps he can help you in some way. If you
+cannot figure out what to do with the Oricon, see the hint on page 79.
+While you are in the village of Kol, don't forget to look for the flute
+mentioned by a woman in the town of Hauksness.
+
+GET THE SPHERE OF LIGHT
+If you don't have the Sphere of Light yet, go to the world above and
+get it. "Where is it?" you ask. Did you notice that there was a castle
+on the north bank of the river which led you to the Promontory of
+Olivia? If you were careful, you should have caught a glimpse of it.
+That is the castle where the Dragon Queen lives. Visit her in her
+chamber located in the center of the castle.
+
+                     THE TOWN OF CANTLIN - Level 38
+
+Depressed with the fear of the Master Archfiend, most people here don't
+want to work. Except the old man behind the barrier, they don't seem
+informative, either. Be sure to TALK to the old man.
+
+                             They Say...
+* To go to the island of the Archfiend, you will need the Stones of
+  Sunlight, the Staff of Rain, and the Sacred Amulet.
+-------------------------------------------------------------
+                               Page 72
+
+                  THE TOWN OF RIMULDAR - Level 38
+
+Inn: 20 Gold per person
+
+         Weapon Store
+MERCHANDISE       PRICE      A/D
+Falcon Sword      25000       +5
+Sword of Destrctn.45000     +110
+Cloak of Evasion   2900      +20
+Magic Armor        5800      +40
+Silver Shield      8800      +30
+Iron Mask          3500      +25
+
+TALK to everyone. Go into every room you can find in the town. An
+unlikely person might give you a very crucial hint. However, whether he
+is a reliable source is unknown.
+
+                               They Say...
+* The Armor of Radiance is in the tower that Rubiss is sealed in.
+* When drops of liquid light up the darkness, a rainbow bridge will
+  appear at the western end of this island.
+* The Sage's Stone heals everyone's wounds and can be used any number
+  of times.
+* There is a secret passage behind the throne in the castle of the
+  Archfiend.
+
+                THE CAVE NORTHWEST OF TANTEGEL - Level 39
+-------------------------------------------------------------
+                               Page 73
+
+                  THE TOWER WEST OF KOL - Level 40
+-------------------------------------------------------------
+                               Page 74
+
+The old man outside the tower says that if you have the Fairy Flute,
+you should go up to the fifth floor. But you cannot go up higher than
+the third floor from inside. There is a corridor on the ground floor
+which has the first flight of stairs leading to the fifth floor. You
+can enter the corridor by jumping off the north opening of the third
+floor.
+
+CHECK EVERY TREASURE BOX
+Do you remember what you heard about the Armor of Radiance in the town
+of Rimuldar? It should be in this tower.
+
+HOW TO WALK ON ROTATING FLOORS
+This tower has Rotating Floors, tricky sections of floors new to you.
+When your characters are on these floors, their movement and the normal
++Control Pad movements don't correspond. Although it may seem there is
+no relationship between the direction you enter by using the +Control
+Pad and the actual movement made by your characters on the screen,
+there is one simple relationship. Can you find it? If you can't figure
+it out, see the hint on page 79.
+---------------------------------------------------------------
+                              Page 75
+
+FREE THE SPIRIT, RUBISS
+The stone statue you see in the middle of the fifth floor is the Spirit
+Rubiss. Play (USE) the Fairy Flute to free Rubiss. When freed, she will
+give you...
+
+                     THE RAINBOW BRIDGE - Level 43
+
+See the spirit at the underground shrine near the town of Cantlin. She
+will give you the Staff of Rain. Now you should have all three
+necessary items to get to the island of the Master Archfiend: the
+Stones of Sunlight, the Staff of Rain, and the Sacred Amulet.
+
+See the sage at the underground shrine in the island south of Rimuldar.
+Satisfied to see you have collected all of the three crucial items, he
+will give you the Rainbow Drop.
+
+At the promontory northwest of the town of Rimuldar, use the Rainbow
+Drop. The Rainbow Bridge will appear, connecting the island of the
+Archfiend and the island of Rimuldar.
+
+                    THE CASTLE OF ZOMA - Level 44
+
+The Master Archfiend, Zoma, is inside this castle. Don't get trapped in
+the castle's infinite loops. Can't find the way to Zoma? Do you
+remember what the chronic lying prisoner you saw in the town of
+Rimunldar had said? Maybe he was telling the truth that time...(If you
+can't find the passage, see the hint on page 79.)
+--------------------------------------------------------------
+                                Page 76
+
+On the fifth basement leve, you will witness a courageous warrior
+fighting a monster. He is the person you heard so much about at many of
+the places you visited...
+----------------------------------------------------------------
+                                Page 77
+
+HOW TO FIGHT ZOMA
+On the fifth basement level, you will see five treasure chests. One of
+them contains the Sage's Stone. This item, when used during a battle,
+works like the Healus spell. Have the Pilgrim or Sage member of your
+party carry it.
+Zoma awaits you on the sixth basement level. He is protected by three
+bodyguards. Defeat them, one by one. Before each battle, be sure to
+restore the maximum HP of each character. If you have the Wizard's
+Ring, USE it to also restore some MP.
+As soon as the battle with Zoma begins, USE the Sphere of Light. Being
+the Master Archfiend of the Darkness, Zoma is susceptible to the power
+omitted by the Sphere of Light. Without it, you cannot inflict any
+damage to Zoma.
+As always, the Pilgrim or Sage member should concentrate on healing the
+wounded. The Wizard should concentrate on doubling the attack power of
+each member, by casting the Bikill spell. Don't waste turns or MP by
+casting attack spells which don't seem to work on Zoma. From midpoint
+of the battle onward, Zoma will breathe out air to nullify the effects
+of all magic spells. The Sage's Stone will, then, be indispensable.
+Even with an elaborate plan and coordinated teamwork, you will find
+Zoma seemingly impossible to defeat. Believe in yourself. You will
+win...eventually...if you are determined. GOOD LUCK!
+-------------------------------------------------------------
+                                Page 78
+
+                          THE ULTIMATE HINTS
+
+WHERE IS THE MAGIC BALL?
+An old man in the village of Reeve has one. Look for him.
+
+HOW TO OPEN THE SEALED STONE WALL IN THE PYRAMID
+On the third floor, on the wall to the south, there are four buttons:
+two on the east side and two on the west side. Press one of the two
+buttons on the east side first and then one of the other two on the
+west side. If you press the right buttons, the wall will open. If not,
+you will fall through the trap door!
+
+HOW TO ARRANGE THREE BOULDERS IN THE CASTLE OF EGINBEAR
+You can attempt to arrange three boulders as many times as you like. If
+you make a mistake, exit the chamber and re-enter the chamber when you
+are ready. The screen shots below illustrate one way to move the
+boulder on the left to the blue floor:
+
+Push the boulder on the left toward the wall.
+
+Push the boulder in the middle to the right to make some room.
+
+Push the boulder on the left to the right. Be careful not to drop it in
+the pond.
+
+Push the boulder on the left to the blue floor. Repeat for the other
+boulders.
+
+WHERE IS THE MISSING ALLY?
+The character sent away to limbo by the Limbo spell will be returned
+to this world unscathed. He/she will be found at Luisa's Place in
+Aliahan. See Luisa and ADD the ally back to your party again.
+
+HOW TO ENTER THE CHAMBER OF THE KING OF SAMANAO AT NIGHT
+See the illustration of the castle of Samanao in Section II. Notice the
+tower on the east side of the castle. Enter the castle through the
+kitchen door on the east side. Go up the tower to the top and jump off
+through the opening to the west. Walk on the roof to get to the King's
+Chamber.
+
+WHERE IS THE SWORD OF GAIA?
+If you TALKed to the spirit at the shrine jail by the Promontory of
+Olivia, you should know that the Sword of Gaia is hidden around one of
+the bodies there. SEARCH the area around the body.
+-----------------------------------------------------------------
+                               Page 79
+
+WHERE ARE THE SIX ORBS?
+
+GREEN ORB  Visit the village of Tedanki at night. Open the Final Key
+           Door of a prison cell and TALK to the prisoner there.
+
+PURPLE ORB SEARCH the treasure chest the Orochi in Jipang leaves when
+           she is defeated.
+
+RED ORB    Move the boulder outside of the House of Pirates and SEARCH
+           the spot. Climb down the stairs.
+
+BLUE ORB   SEARCH a treasure chest on the third basement level of the
+           Navel of the Earth.
+
+YELLOW ORB Visit the new town often and TALK to the Merchant. When he
+           is imprisoned, he reveals where to look for it.
+
+SILVER ORB See the old man at the shrine by one of the openings of the
+           Cave of Necrogond.
+
+HOW TO ENTER BARAMOS' CHAMBER
+Follow the route outlined below (the letters correspond to the ones in
+the diagram of the castle of Baramos in Section II):
+
+2F: B-A     D-C
+    | |     | |
+1F: C D-H K-G F-E A-B-Baramos' Chamber
+        | |     | |
+B1:     D-F     C-A
+
+WHERE IS THE SWORD OF KINGS?
+Find the Oricon in the pasture of the town of Hauksness and go to the
+village of Kol. Sell the Oricon to the owner of the item store who used
+to be a swordsmith in Jipang. Leave the village and come back later. He
+will have forged the Sword of Kings and put it up for sale by then.
+
+HOW TO WALK ON THE ROTATING FLOORS
+When you are on a rotating floor, pressing the +Control Pad in the
+direction corresponding to the dark side of the floor moves you up. For
+example, when you  are on one of the floors in the picture to the
+right, pressing left on +Control Pad moves you up. Try to figure out
+how other moves can be controlled.
+
+HOW TO REACH THE THIRD BASEMENT LEVEL IN THE CASTLE OF ZOMA
+To avoid getting trapped in the infinite loop of the second basement,
+you must enter the second basement through a secret passage. Do you
+remember what the chronic lying prisoner int he town of Rimuldar said?
+SEARCH the area behind the throne on the first basement level. You will
+find the stairs to the passage.
+------------------------------------------------------------
+                              Page 80
+
+                               INDEX
+
+                        CLUES TO KEY ITEMS:
+Armor of Radiance..............68, 74
+Black Pepper...............39, 40, 41
+Book of Satori................49, (49)
+Dream Ruby.....................31, 32
+Echoing Flute.............46, 52, (53)
+Fairy Flute.......68, 69, 70, 71, (75)
+Invisibility Herb.............43, (44)
+Keys
+ Final Key.................42, 43, 47
+ Magic Key.............32, 35, 37, 38
+ Thief's Key...................23, 25
+Locket of Love................60, (60)
+Magic Ball................27, 79, (26)
+Meteorite Armband.............36, (36)
+Mirror of Ra..............58, 60, (60)
+ Blue Orb.................54, 79, (63)
+ Green Orb............42, 47, 79, (63)
+ Purple Orb...........50, 51, 79, (63)
+ Red Orb..................53, 79, (63)
+ Silver Orb...............61, 79, (63)
+ Yellow Orb...........54, 56, 79, (63)
+Oricon....................70, 71, (71)
+Rainbow Drop..................75, (75)
+Royal Scroll..............39, 40, (40)
+Sacred Amulet......................75
+Sage's Stone..............72, 77, (77)
+Sailor's Thigh Bone...47, 53, 59, (59)
+Shield of Heroes...................68
+Sphere of Light.......69, 70, 71, (77)
+Stones of Sunlight....67, 68, 71, (75)
+Staff of Change.......47, 56, 59, (59)
+Staff of Rain.................75, (75)
+Sword of Gaia.........54, 60, 79, (61)
+Sword of Kings.........68, 69, 70, 71
+Vase of Drought...........43, 44, (44)
+Wake up Powder................32, (32)
+
+Pages in () explain usage
+
+                              SPELLS:
+See the list on the Map Poster
+
+                             COMMANDS:
+
+WALKABOUT MODE
+TALK....................11
+STATUS..................11
+SEARCH..................11
+SPELL...................12
+ITEM....................12
+  USE...............12, 14
+  TRANSFER..............11
+  DISCARD...............11
+EQUIP...............12, 14
+
+FIGHTING MODE
+FIGHT...................15
+RUN.....................15
+PARRY...................15
+SPELL...................15
+ITEM....................16
+
+MAPS:
+The World of Darkness.......................66
+
+The Cave on Promontory
+  & The Tower of Najima.....................24
+The Cave of Enticement......................26
+The Cave West of Noaniels...................31
+The Tower of Shanpane.......................33
+The Pyramid.................................37
+The Cave East of Baharata...................40
+The Tower of Garuna.........................49
+The Cave of Jipang..........................50
+The Navel of the Earth......................55
+The Cave Southeast of Samanao...............58
+The Phantom Ship............................60
+The Cave of Necrogond.......................61
+The Castle of Baramos.......................64
+The Cave Northwest of Tantegel..............73
+The Tower West of Kol.......................73
+The Castle of Zoma..........................76
+Tips and codes - Game Endings - Java Games - Reviews - Fun Stuff - Message Boards
+
+MidSummer
+Buy Nintendo Wii - Buy Nintendo DS - Buy Video Games
+Webstats4U - Free web site statistics Personal homepage website counter

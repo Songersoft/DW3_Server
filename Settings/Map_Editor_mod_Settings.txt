@@ -1,0 +1,3 @@
+win_x: 632
+win_y: 161
+Area_outbounds_world: File EOF

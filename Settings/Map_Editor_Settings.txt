@@ -1,0 +1,3 @@
+win_x: 76
+win_y: 409
+Area_outbounds_world: DW3\Aliahan\
